@@ -10,7 +10,10 @@
 				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LU/X51RBUA7BAKZEO522CNN4W.uasset",
 				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/B9/FB4I8WS7C2OND2V5AG04VC.uasset",
 				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GK/0WRQSPQ3C1T9XD8ZTNVKZ1.uasset",
-				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/Enemy_Controller.uasset"
+				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/Enemy_Controller.uasset",
+				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BB_Enemy.uasset",
+				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset",
+				"C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BTT_ChasePlayer.uasset"
 			]
 		}
 	]

@@ -2405,3 +2405,117 @@ Minimum required: 527.27
 [2023.10.05-21.26.09:886][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 757 ms)
 [2023.10.05-21.26.09:888][321]AssetCheck: New page: Asset Save: Enemy_Controller
 [2023.10.05-21.26.09:888][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/AI/Enemy_Controller.Enemy_Controller
+[2023.10.05-21.27.25:675][611]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2023.10.05-21.27.25:684][611]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2023.10.05-21.27.25:699][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2023.10.05-21.27.31:547][809]LogContentBrowser: Attempting asset rename: NewBlackboardData -> NewBlackboardData
+[2023.10.05-21.27.31:550][809]LogContentBrowser: End creating deferred item NewBlackboardData
+[2023.10.05-21.27.38:535][296]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BB_Enemy
+[2023.10.05-21.27.38:578][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.27.38:610][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BB_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BB_Enemy.uasset" SILENT=true
+[2023.10.05-21.27.38:614][296]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BB_Enemy
+[2023.10.05-21.27.38:614][296]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BB_EnemyA0932C8F4567F25842DD69BD799C97F6.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BB_Enemy.uasset'
+[2023.10.05-21.27.38:623][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 801 ms)
+[2023.10.05-21.27.38:649][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.05-21.27.38:669][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.05-21.27.38:690][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.05-21.27.38:693][296]AssetCheck: New page: Asset Save: BB_Enemy
+[2023.10.05-21.27.38:693][296]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/FirstPerson/AI/BB_Enemy.BB_Enemy
+[2023.10.05-21.27.48:171][455]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/FirstPerson/AI/BB_Enemy.BB_Enemy
+[2023.10.05-21.28.11:070][454]Cmd: TRANSACTION UNDO
+[2023.10.05-21.28.11:070][454]LogEditorTransaction: Undo Add Blackboard Entry
+[2023.10.05-21.28.17:833][738]Cmd: TRANSACTION UNDO
+[2023.10.05-21.28.17:834][738]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.05-21.28.19:376][794]Cmd: TRANSACTION UNDO
+[2023.10.05-21.28.19:376][794]LogEditorTransaction: Undo Scale Elements
+[2023.10.05-21.28.21:803][897]Cmd: TRANSACTION REDO
+[2023.10.05-21.28.21:803][897]LogEditorTransaction: Redo Scale Elements
+[2023.10.05-21.31.02:445][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.05-21.31.02:450][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2023.10.05-21.31.02:451][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/AI/BB_Enemy] ([1] browsable assets)...
+[2023.10.05-21.31.02:451][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/BB_Enemy]
+[2023.10.05-21.31.02:454][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/BB_Enemy_Auto3
+[2023.10.05-21.31.02:455][309]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BB_Enemy_Auto3AEC883404353FBB71268CDABE5DF8015.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/BB_Enemy_Auto3.uasset'
+[2023.10.05-21.31.02:455][309]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.10.05-21.31.07:162][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.05-21.31.07:166][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.31.07:195][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BB_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BB_Enemy.uasset" SILENT=true
+[2023.10.05-21.31.07:200][458]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BB_Enemy
+[2023.10.05-21.31.07:201][458]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BB_Enemy36F305AC4666E67F16F6D48F7AF53F76.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BB_Enemy.uasset'
+[2023.10.05-21.31.07:210][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 845 ms)
+[2023.10.05-21.31.07:212][458]AssetCheck: New page: Asset Save: BB_Enemy
+[2023.10.05-21.31.07:212][458]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/FirstPerson/AI/BB_Enemy.BB_Enemy
+[2023.10.05-21.31.08:901][587]LogSlate: Window 'BB_Enemy' being destroyed
+[2023.10.05-21.31.08:910][587]LogSlate: Window 'BB_Enemy' being destroyed
+[2023.10.05-21.31.25:642][585]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2023.10.05-21.31.25:653][585]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2023.10.05-21.31.25:669][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2023.10.05-21.31.33:385][  2]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> B
+[2023.10.05-21.31.33:387][  2]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2023.10.05-21.31.39:214][454]LogContentBrowser: Attempting asset rename: B -> BT_Enemy
+[2023.10.05-21.31.39:245][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.31.39:266][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BT_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset" SILENT=true
+[2023.10.05-21.31.39:271][454]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BT_Enemy
+[2023.10.05-21.31.39:271][454]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_Enemy0FB717654F2098E2CED240BA35D9A2DA.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset'
+[2023.10.05-21.31.39:279][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 879 ms)
+[2023.10.05-21.31.39:304][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.05-21.31.39:323][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.05-21.31.39:351][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.05-21.31.39:353][454]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.10.05-21.31.39:353][454]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
+[2023.10.05-21.32.03:793][853]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
+[2023.10.05-21.32.13:268][308]LogSlate: Took 0.001339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.05-21.33.09:901][ 31]Cmd: TRANSACTION UNDO
+[2023.10.05-21.33.09:902][ 31]LogEditorTransaction: Undo Comment Bubble Visibility
+[2023.10.05-21.38.56:136][203]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.38.56:153][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2023.10.05-21.38.56:153][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-21.38.56:154][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-21.38.56:228][203]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/FirstPerson/AI/BTT_ChasePlayer.
+[2023.10.05-21.38.56:276][204]LogAutomationController: Ignoring very large delta of 40.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.40.06:333][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.05-21.40.06:341][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.40.06:368][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BT_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset" SILENT=true
+[2023.10.05-21.40.06:376][469]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BT_Enemy
+[2023.10.05-21.40.06:376][469]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_Enemy02C089FA4006BE7A96668693441C432A.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset'
+[2023.10.05-21.40.06:382][469]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BTT_ChasePlayer
+[2023.10.05-21.40.06:382][469]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BTT_ChasePlayer6585676C4372C235FC94BDA0B2F842D1.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BTT_ChasePlayer.uasset'
+[2023.10.05-21.40.06:384][469]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPerson/AI/BTT_ChasePlayer.
+[2023.10.05-21.40.06:394][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 933 ms)
+[2023.10.05-21.40.06:398][469]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.05-21.40.06:398][469]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
+[2023.10.05-21.40.06:398][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2023.10.05-21.46.54:161][497]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.46.54:181][498]LogAutomationController: Ignoring very large delta of 10.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.46.57:302][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.05-21.46.57:307][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2023.10.05-21.46.57:307][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2023.10.05-21.46.57:307][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/BT_Enemy]
+[2023.10.05-21.46.57:314][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/BT_Enemy_Auto4
+[2023.10.05-21.46.57:314][574]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_Enemy_Auto4FF01FD2A4049070E730DAEA6334CC38C.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/BT_Enemy_Auto4.uasset'
+[2023.10.05-21.46.57:316][574]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.10.05-21.48.10:740][ 56]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.48.10:762][ 57]LogAutomationController: Ignoring very large delta of 10.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.48.20:469][395]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.05-21.48.20:480][395]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.05-21.48.20:498][395]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.05-21.48.22:879][395]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.10.05-21.48.22:880][395]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.05-21.48.29:879][395]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.48.29:906][396]LogAutomationController: Ignoring very large delta of 12.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.49.09:939][593]Cmd: TRANSACTION UNDO
+[2023.10.05-21.49.09:939][593]LogEditorTransaction: Undo Break Pin Links
+[2023.10.05-21.49.11:474][659]Cmd: TRANSACTION UNDO
+[2023.10.05-21.49.11:475][659]LogEditorTransaction: Undo Move Node
+[2023.10.05-21.49.13:490][753]Cmd: TRANSACTION UNDO
+[2023.10.05-21.49.13:490][753]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.05-21.50.46:969][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.05-21.50.46:976][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.50.47:000][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BT_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset" SILENT=true
+[2023.10.05-21.50.47:007][846]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BT_Enemy
+[2023.10.05-21.50.47:008][846]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_EnemyAEC8B57444186BC4856E3B8224EFBD49.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset'
+[2023.10.05-21.50.47:014][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 971 ms)
+[2023.10.05-21.50.47:016][846]AssetCheck: New page: Asset Save: BT_Enemy
+[2023.10.05-21.50.47:016][846]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
+[2023.10.05-21.51.27:417][ 94]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.51.27:432][ 94]LogAutomationController: Ignoring very large delta of 18.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
