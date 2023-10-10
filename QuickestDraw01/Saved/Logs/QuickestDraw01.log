@@ -2519,3 +2519,192 @@ Minimum required: 527.27
 [2023.10.05-21.50.47:016][846]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
 [2023.10.05-21.51.27:417][ 94]LogSlate: Window 'Save Asset As' being destroyed
 [2023.10.05-21.51.27:432][ 94]LogAutomationController: Ignoring very large delta of 18.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.56.18:409][ 64]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.05-21.56.18:420][ 64]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2023.10.05-21.56.18:421][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-21.56.18:421][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-21.56.18:480][ 64]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/FirstPerson/AI/BTT_FindRandomPatrol.
+[2023.10.05-21.56.18:519][ 65]LogAutomationController: Ignoring very large delta of 34.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-21.57.12:665][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.10.05-21.57.12:668][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.10.05-21.57.12:668][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/AI/BT_Enemy] ([1] browsable assets)...
+[2023.10.05-21.57.12:668][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/BT_Enemy]
+[2023.10.05-21.57.12:674][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/BT_Enemy_Auto5
+[2023.10.05-21.57.12:674][ 98]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_Enemy_Auto506D6ED7547678A31071379B346677E82.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/BT_Enemy_Auto5.uasset'
+[2023.10.05-21.57.12:676][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/AI/BTT_FindRandomPatrol] ([2] browsable assets)...
+[2023.10.05-21.57.12:676][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/BTT_FindRandomPatrol]
+[2023.10.05-21.57.12:680][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/BTT_FindRandomPatrol_Auto5
+[2023.10.05-21.57.12:680][ 98]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BTT_FindRandomPatrol_Auto57E1F299E4B6AAB14A79EC1991AB56A46.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/BTT_FindRandomPatrol_Auto5.uasset'
+[2023.10.05-21.57.12:681][ 98]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.10.05-21.58.39:310][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.05-21.58.39:315][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-21.58.39:332][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/AI/BT_Enemy" FILE="../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset" SILENT=true
+[2023.10.05-21.58.39:337][ 15]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BT_Enemy
+[2023.10.05-21.58.39:338][ 15]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BT_Enemy009DF2AD4E6D9A975E349B91C79D0E33.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BT_Enemy.uasset'
+[2023.10.05-21.58.39:344][ 15]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BTT_ChasePlayer
+[2023.10.05-21.58.39:344][ 15]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BTT_ChasePlayerA812FBF544FA24EFA96283BF7A20223B.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BTT_ChasePlayer.uasset'
+[2023.10.05-21.58.39:348][ 15]LogSavePackage: Moving output files for package: /Game/FirstPerson/AI/BTT_FindRandomPatrol
+[2023.10.05-21.58.39:348][ 15]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BTT_FindRandomPatrolF0B0C3C14E8BFEDF92B56B939E3C2552.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/AI/BTT_FindRandomPatrol.uasset'
+[2023.10.05-21.58.39:349][ 15]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPerson/AI/BTT_FindRandomPatrol.
+[2023.10.05-21.58.39:357][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.01 sec)
+[2023.10.05-21.58.39:360][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.05-21.58.39:360][ 15]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/FirstPerson/AI/BT_Enemy.BT_Enemy
+[2023.10.05-21.58.39:360][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2023.10.05-21.58.39:360][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2023.10.05-21.58.47:132][133]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.05-21.58.47:242][133]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19736
+[2023.10.05-21.58.48:574][137]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1143.96
+[2023.10.05-21.58.48:575][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-21.58.48:577][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-00.58.53:793][149]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.06-00.58.54:615][150]LogAutomationController: Ignoring very large delta of 10802.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: libcurl info message cache 0 (Too old connection (10844 seconds idle), disconnect it)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: libcurl info message cache 2 (Closing connection 11)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: 000005BE6D9B3200: libcurl info message cache 4 (Closing connection 12)
+[2023.10.06-00.58.54:943][151]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-00.58.56:692][153]Could not fetch the local adapter addresses
+[2023.10.06-00.58.56:692][153]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.06-00.58.57:011][154]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.06-00.59.06:951][156]LogAutomationController: Ignoring very large delta of 9.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-00.59.08:495][157]Could not fetch the local adapter addresses
+[2023.10.06-00.59.08:496][157]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.06-00.59.09:364][157]LogAutomationController: Ignoring very large delta of 2.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-00.59.11:676][163]LogHttp: Warning: 000005BE6D9B5500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-00.59.11:677][163]LogHttp: Warning: 000005BE6D9B5500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-00.59.11:678][163]LogHttp: Warning: 000005BE6D9B5500: libcurl info message cache 1 (Closing connection 13)
+[2023.10.06-00.59.11:678][163]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-04.52.57:591][188]LogAutomationController: Ignoring very large delta of 14019.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-04.52.57:846][189]LogHttp: Warning: 000005BE6D9B5000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-04.52.57:846][189]LogHttp: Warning: 000005BE6D9B5000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-04.52.57:846][189]LogHttp: Warning: 000005BE6D9B5000: libcurl info message cache 1 (Closing connection 14)
+[2023.10.06-04.52.57:857][189]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-05.07.32:666][806]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 555 files in 937 folders with total size 12 MiB.
+[2023.10.06-05.13.56:982][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-05.13.57:003][793]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.06-05.13.57:003][793]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.06-05.13.57:012][793]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8 ms (total: 63 ms)
+[2023.10.06-05.13.57:027][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.06-05.13.57:032][793]LogPlayLevel: [PlayLevel] Compiling BTT_ChasePlayer before play...
+[2023.10.06-05.13.57:104][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.10.06-05.13.57:106][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2023.10.06-05.13.57:108][793]PIE: New page: PIE session: FirstPersonMap (Oct 5, 2023, 9:13:57 PM)
+[2023.10.06-05.13.57:109][793]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2023.10.06-05.13.57:114][793]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.10.06-05.13.57:154][794]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.06-05.13.57:174][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020825s)
+[2023.10.06-05.13.57:174][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.020909s)
+[2023.10.06-05.13.57:197][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.10.06-05.13.57:199][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-05.13.57:200][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-05.13.57:202][794]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.06-05.13.57:204][794]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.06-05.13.57:204][794]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.06-05.13.57:204][794]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.06-05.13.57:204][794]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.06-05.13.57:207][794]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.06-05.13.57:207][794]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 133 ms)
+[2023.10.06-05.13.57:207][794]LogPlayLevel: PIE: World Init took: (0.008468s)
+[2023.10.06-05.13.57:207][794]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.06-05.13.57:207][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-05.13.57:207][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-05.13.57:207][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-05.13.57:207][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-05.13.57:207][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.06-05.13.57:208][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.06-05.13.57:208][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.06-05.13.57:208][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-05.13.57:209][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-05.13.57:209][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-05.13.57:209][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-05.13.57:212][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-05.13.57:348][794]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.06-05.13.57:348][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-05.13.57:348][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-05.13.57:348][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-05.13.57:349][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.06-05.13.57:350][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.06-05.13.57:353][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.06-05.13.57:353][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.06-05.13.57:353][794]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.06-05.13.57:353][794]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2023.10.06-05.13.57:353][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.06-05.13.57:367][794]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.06-05.13.57:379][794]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.06-01.13.57
+[2023.10.06-05.13.57:379][794]LogWorld: Bringing up level for play took: 0.010792
+[2023.10.06-05.13.57:386][794]PIE: Server logged in
+[2023.10.06-05.13.57:388][794]PIE: Play in editor total start time 0.384 seconds.
+[2023.10.06-05.14.08:966][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-05.14.08:966][248]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.06-05.14.08:968][248]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-05.14.08:970][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-05.14.08:970][248]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.06-05.14.08:978][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-05.14.08:985][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-05.14.09:012][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-05.14.09:013][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.06-05.14.09:013][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.06-05.14.09:016][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.06-05.14.09:032][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.06-05.14.09:148][249]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.10.06-05.22.36:296][996]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [204 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-05.22.37:334][996]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19736
+[2023.10.06-05.22.37:359][997]LogAutomationController: Ignoring very large delta of 201.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-05.22.38:580][999]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=878.17
+[2023.10.06-05.22.38:581][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-05.22.38:698][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-08.22.42:172][  1]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.06-08.22.43:683][  1]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10805 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: request failed, libcurl error: 28 (Timeout was reached)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 0 (Too old connection (210 seconds idle), disconnect it)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 1 (Connection 15 seems to be dead)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 2 (Closing connection 15)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 4 (Resolving timed out after 10804402 milliseconds)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: 000005BE66058700: libcurl info message cache 5 (Closing connection 16)
+[2023.10.06-08.22.47:502][  1]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-08.22.47:529][  1]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19736
+[2023.10.06-08.22.47:549][  1]LogAutomationController: Ignoring very large delta of 10808.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-08.22.47:549][  2]LogHttp: Warning: 000005BE6605AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-08.22.47:550][  2]LogHttp: Warning: 000005BE6605AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-08.22.47:550][  2]LogHttp: Warning: 000005BE6605AF00: libcurl info message cache 1 (Closing connection 17)
+[2023.10.06-08.22.47:550][  2]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-08.22.47:966][  2]Could not fetch the local adapter addresses
+[2023.10.06-08.22.47:966][  2]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.06-08.22.48:004][  3]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.06-08.22.49:805][  8]Could not fetch the local adapter addresses
+[2023.10.06-08.22.49:805][  8]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.06-08.22.49:993][  8]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2196.21
+[2023.10.06-08.22.49:993][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-08.22.49:995][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-08.22.50:006][  9]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.06-15.43.30:275][ 11]LogAutomationController: Ignoring very large delta of 26443.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-15.43.30:276][ 11]LogHttp: Warning: 000005BE66051400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-15.43.30:276][ 11]LogHttp: Warning: 000005BE66051400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-15.43.30:276][ 11]LogHttp: Warning: 000005BE66051400: libcurl info message cache 1 (Closing connection 18)
+[2023.10.06-15.43.30:276][ 11]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-15.43.30:883][ 11]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-15.43.30:943][ 11]Could not fetch the local adapter addresses
+[2023.10.06-15.43.30:943][ 11]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2023.10.06-16.31.28:162][639]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.189 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 555 files in 937 folders with total size 12 MiB.
+[2023.10.06-17.31.28:086][436]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.111 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 555 files in 937 folders with total size 12 MiB.
+[2023.10.06-17.34.10:078][920]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-17.34.10:339][920]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19736
+[2023.10.06-17.34.11:343][923]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=724.11
+[2023.10.06-17.34.11:344][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-17.34.11:348][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-20.34.16:320][933]LogAutomationController: Ignoring very large delta of 10802.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: libcurl info message cache 0 (Too old connection (10808 seconds idle), disconnect it)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: libcurl info message cache 1 (Connection 19 seems to be dead)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: libcurl info message cache 2 (Closing connection 19)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: 000005BE6605DC00: libcurl info message cache 4 (Closing connection 20)
+[2023.10.06-20.34.16:613][934]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.07-03.18.32:449][938]LogAutomationController: Ignoring very large delta of 24254.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.07-03.18.32:655][939]LogHttp: Warning: 000005BE66059B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.07-03.18.32:655][939]LogHttp: Warning: 000005BE66059B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.07-03.18.32:655][939]LogHttp: Warning: 000005BE66059B00: libcurl info message cache 1 (Closing connection 21)
+[2023.10.07-03.18.32:656][939]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE507DE4-4493-F1AC-F261-83B8A7C9ABF3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
