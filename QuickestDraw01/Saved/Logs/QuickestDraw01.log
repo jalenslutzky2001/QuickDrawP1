@@ -4823,3 +4823,88 @@ Script Stack (0 frames) :
 [2023.10.12-15.21.22:428][390]Could not fetch the local adapter addresses
 [2023.10.12-15.21.22:428][390]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
 [2023.10.12-15.21.22:641][391]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.24:456][396]Could not fetch the local adapter addresses
+[2023.10.12-15.21.24:456][396]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.24:632][397]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.26:491][402]Could not fetch the local adapter addresses
+[2023.10.12-15.21.26:491][402]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.26:634][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.28:420][408]Could not fetch the local adapter addresses
+[2023.10.12-15.21.28:420][408]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.28:635][409]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.30:452][414]Could not fetch the local adapter addresses
+[2023.10.12-15.21.30:452][414]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.30:634][415]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.32:477][420]Could not fetch the local adapter addresses
+[2023.10.12-15.21.32:477][420]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.32:637][421]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.34:504][426]Could not fetch the local adapter addresses
+[2023.10.12-15.21.34:505][426]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.34:662][427]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.36:539][432]Could not fetch the local adapter addresses
+[2023.10.12-15.21.36:540][432]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.36:662][433]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.38:467][438]Could not fetch the local adapter addresses
+[2023.10.12-15.21.38:467][438]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.38:670][439]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.40:493][444]Could not fetch the local adapter addresses
+[2023.10.12-15.21.40:493][444]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.40:666][445]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.42:522][450]Could not fetch the local adapter addresses
+[2023.10.12-15.21.42:522][450]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.42:671][451]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.44:456][456]Could not fetch the local adapter addresses
+[2023.10.12-15.21.44:456][456]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.44:668][457]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.46:485][462]Could not fetch the local adapter addresses
+[2023.10.12-15.21.46:486][462]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.46:672][463]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.48:516][468]Could not fetch the local adapter addresses
+[2023.10.12-15.21.48:516][468]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.48:671][469]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.50:547][474]Could not fetch the local adapter addresses
+[2023.10.12-15.21.50:547][474]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.50:677][475]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.52:478][480]Could not fetch the local adapter addresses
+[2023.10.12-15.21.52:478][480]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.52:676][481]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.54:509][486]Could not fetch the local adapter addresses
+[2023.10.12-15.21.54:509][486]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.54:673][487]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.56:534][492]Could not fetch the local adapter addresses
+[2023.10.12-15.21.56:535][492]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.56:672][493]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.21.58:462][498]Could not fetch the local adapter addresses
+[2023.10.12-15.21.58:462][498]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.21.58:673][499]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.00:493][504]Could not fetch the local adapter addresses
+[2023.10.12-15.22.00:493][504]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.00:676][505]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.02:524][510]Could not fetch the local adapter addresses
+[2023.10.12-15.22.02:524][510]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.02:675][511]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.04:558][516]Could not fetch the local adapter addresses
+[2023.10.12-15.22.04:558][516]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.04:675][517]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.06:485][522]Could not fetch the local adapter addresses
+[2023.10.12-15.22.06:485][522]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.06:676][523]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.08:513][528]Could not fetch the local adapter addresses
+[2023.10.12-15.22.08:513][528]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.08:678][529]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.10:545][534]Could not fetch the local adapter addresses
+[2023.10.12-15.22.10:545][534]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.10:679][535]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.12:471][540]Could not fetch the local adapter addresses
+[2023.10.12-15.22.12:471][540]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.12:679][541]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.14:497][546]Could not fetch the local adapter addresses
+[2023.10.12-15.22.14:497][546]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.14:701][547]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.16:531][552]Could not fetch the local adapter addresses
+[2023.10.12-15.22.16:531][552]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.16:684][553]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.18:558][558]Could not fetch the local adapter addresses
+[2023.10.12-15.22.18:559][558]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-15.22.18:695][559]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-15.22.20:977][564]LogUdpMessaging: Display: Added local interface '10.10.28.203' to multicast group '230.0.0.1:6666'
