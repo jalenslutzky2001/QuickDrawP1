@@ -6316,3 +6316,619 @@ Script Stack (0 frames) :
 [2023.10.12-17.03.35:424][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.63 sec)
 [2023.10.12-17.03.35:428][184]AssetCheck: New page: Asset Save: Enemy_Character
 [2023.10.12-17.03.35:429][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character
+[2023.10.12-18.53.35:792][410]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-18.53.36:059][410]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [6563 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.53.45:782][410]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-18.53.46:813][411]LogHttp: Warning: 000009C80ED01900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.12-18.53.46:814][411]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 0 (Too old connection (6594 seconds idle), disconnect it)
+[2023.10.12-18.53.46:815][411]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 1 (Connection 15 seems to be dead)
+[2023.10.12-18.53.46:815][411]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 2 (Closing connection 15)
+[2023.10.12-18.53.46:816][411]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.12-18.53.46:816][411]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 4 (Closing connection 16)
+[2023.10.12-18.53.46:816][411]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.12-18.53.48:508][411]Could not fetch the local adapter addresses
+[2023.10.12-18.53.48:509][411]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.12-18.53.48:964][412]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.12-18.53.48:965][412]LogHttp: Warning: 000009C80ED01900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.12-18.53.48:966][412]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.12-18.53.48:966][412]LogHttp: Warning: 000009C80ED01900: libcurl info message cache 1 (Closing connection 17)
+[2023.10.12-18.53.48:966][412]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.12-18.53.50:771][414]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.53.52:790][414]LogUdpMessaging: Display: Added local interface '10.20.200.151' to multicast group '230.0.0.1:6666'
+[2023.10.12-18.53.55:772][418]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.54.00:772][428]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.54.01:930][440]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=16061.93
+[2023.10.12-18.54.01:930][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-18.54.01:938][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.12-18.54.01:980][441]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-18.54.02:936][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.12-18.54.02:983][452]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.12-18.54.02:983][452]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.12-18.54.03:030][452]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 46 ms (total: 564 ms)
+[2023.10.12-18.54.03:030][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-18.54.03:031][452]PIE: New page: PIE session: FirstPersonMap (Oct 12, 2023, 10:54:03 AM)
+[2023.10.12-18.54.04:031][452]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2023.10.12-18.54.05:032][452]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2023.10.12-18.54.05:032][452]LogPlayLevel: Display: Creating online subsystem for client :Context_137
+[2023.10.12-18.54.05:042][452]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2023.10.12-18.54.05:146][453]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.12-18.54.05:193][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047825s)
+[2023.10.12-18.54.05:193][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.048044s)
+[2023.10.12-18.54.05:272][453]LogUObjectHash: Compacting FUObjectHashTables data took  14.55ms
+[2023.10.12-18.54.05:282][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-18.54.05:282][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-18.54.05:285][453]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.12-18.54.05:308][453]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.12-18.54.05:309][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.12-18.54.05:309][453]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.12-18.54.05:309][453]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.12-18.54.05:333][453]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.12-18.54.05:333][453]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 326 ms)
+[2023.10.12-18.54.05:334][453]LogPlayLevel: PIE: World Init took: (0.052319s)
+[2023.10.12-18.54.05:334][453]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-18.54.05:334][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.12-18.54.05:334][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-18.54.05:337][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-18.54.05:337][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-18.54.05:337][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-18.54.05:345][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-18.54.06:073][453]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.12-18.54.06:075][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-18.54.06:076][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-18.54.06:076][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-18.54.06:079][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.10.12-18.54.06:079][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.10.12-18.54.06:086][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.10.12-18.54.06:086][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.10.12-18.54.06:086][453]LogInit: FAudioDevice initialized with ID 58.
+[2023.10.12-18.54.06:086][453]LogAudio: Display: Audio Device (ID: 58) registered with world 'FirstPersonMap'.
+[2023.10.12-18.54.06:086][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2023.10.12-18.54.06:093][453]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.12-18.54.06:108][453]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.12-14.54.06
+[2023.10.12-18.54.06:116][453]LogWorld: Bringing up level for play took: 0.020739
+[2023.10.12-18.54.06:130][453]PIE: Server logged in
+[2023.10.12-18.54.06:134][453]PIE: Play in editor total start time 3.151 seconds.
+[2023.10.12-18.54.06:152][453]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=3360.73
+[2023.10.12-18.54.06:152][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-18.54.06:158][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.12-18.54.11:205][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -1.0
+[2023.10.12-18.54.11:206][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.11:741][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -2.0
+[2023.10.12-18.54.11:741][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.16:018][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -3.0
+[2023.10.12-18.54.16:018][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.17:028][727]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -4.0
+[2023.10.12-18.54.17:028][727]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.18:061][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -5.0
+[2023.10.12-18.54.18:061][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.18:568][778]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -6.0
+[2023.10.12-18.54.18:568][778]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.19:077][794]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -7.0
+[2023.10.12-18.54.19:078][794]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.21:683][876]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -8.0
+[2023.10.12-18.54.21:684][876]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.22:731][912]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -9.0
+[2023.10.12-18.54.22:732][912]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.26:884][ 45]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -10.0
+[2023.10.12-18.54.26:884][ 45]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.27:399][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -11.0
+[2023.10.12-18.54.27:399][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.27:904][ 79]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -12.0
+[2023.10.12-18.54.27:904][ 79]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.28:416][ 97]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -13.0
+[2023.10.12-18.54.28:416][ 97]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.29:442][133]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -14.0
+[2023.10.12-18.54.29:442][133]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.30:989][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -15.0
+[2023.10.12-18.54.30:989][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.31:487][213]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -16.0
+[2023.10.12-18.54.31:487][213]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.32:004][240]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -17.0
+[2023.10.12-18.54.32:004][240]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.33:018][294]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -18.0
+[2023.10.12-18.54.33:018][294]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.33:531][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -19.0
+[2023.10.12-18.54.33:531][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.34:047][349]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -20.0
+[2023.10.12-18.54.34:047][349]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.35:058][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -21.0
+[2023.10.12-18.54.35:059][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.35:578][432]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -22.0
+[2023.10.12-18.54.35:578][432]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.36:081][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -23.0
+[2023.10.12-18.54.36:081][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.36:590][486]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -24.0
+[2023.10.12-18.54.36:590][486]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.47:328][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -25.0
+[2023.10.12-18.54.47:328][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.47:845][ 42]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -26.0
+[2023.10.12-18.54.47:845][ 42]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.56:558][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -27.0
+[2023.10.12-18.54.56:558][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.57:068][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -28.0
+[2023.10.12-18.54.57:068][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.57:569][507]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -29.0
+[2023.10.12-18.54.57:569][507]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.58:082][532]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -30.0
+[2023.10.12-18.54.58:082][532]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.58:595][556]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -31.0
+[2023.10.12-18.54.58:595][556]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.59:095][581]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -32.0
+[2023.10.12-18.54.59:095][581]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.54.59:596][606]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -33.0
+[2023.10.12-18.54.59:596][606]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.00:107][630]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -34.0
+[2023.10.12-18.55.00:107][630]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.00:617][655]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -35.0
+[2023.10.12-18.55.00:617][655]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.01:641][706]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -36.0
+[2023.10.12-18.55.01:641][706]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.02:146][731]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -37.0
+[2023.10.12-18.55.02:146][731]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.03:169][785]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -38.0
+[2023.10.12-18.55.03:170][785]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.12:374][226]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -39.0
+[2023.10.12-18.55.12:375][226]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.12:891][253]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -40.0
+[2023.10.12-18.55.12:891][253]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.13:409][279]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -41.0
+[2023.10.12-18.55.13:409][279]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.13:920][306]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -42.0
+[2023.10.12-18.55.13:920][306]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.14:434][333]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -43.0
+[2023.10.12-18.55.14:434][333]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.14:937][359]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -44.0
+[2023.10.12-18.55.14:938][359]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.15:453][387]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -45.0
+[2023.10.12-18.55.15:453][387]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.15:974][414]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -46.0
+[2023.10.12-18.55.15:974][414]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.18:021][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -47.0
+[2023.10.12-18.55.18:021][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.22:080][736]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -48.0
+[2023.10.12-18.55.22:080][736]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.22:599][763]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -49.0
+[2023.10.12-18.55.22:600][763]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.24:643][868]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -50.0
+[2023.10.12-18.55.24:643][868]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.25:659][919]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -51.0
+[2023.10.12-18.55.25:659][919]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.26:169][944]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -52.0
+[2023.10.12-18.55.26:169][944]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.26:675][969]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -53.0
+[2023.10.12-18.55.26:675][969]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.27:180][996]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -54.0
+[2023.10.12-18.55.27:180][996]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.29:207][105]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -55.0
+[2023.10.12-18.55.29:207][105]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.31:241][212]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -56.0
+[2023.10.12-18.55.31:241][212]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.32:260][267]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -57.0
+[2023.10.12-18.55.32:260][267]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.32:778][293]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -58.0
+[2023.10.12-18.55.32:778][293]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.34:285][375]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -59.0
+[2023.10.12-18.55.34:285][375]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.56:149][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -60.0
+[2023.10.12-18.55.56:149][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.56:652][564]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -61.0
+[2023.10.12-18.55.56:652][564]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.55.59:190][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -62.0
+[2023.10.12-18.55.59:190][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.01:237][801]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -63.0
+[2023.10.12-18.56.01:237][801]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.01:743][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -64.0
+[2023.10.12-18.56.01:743][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.03:280][908]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -65.0
+[2023.10.12-18.56.03:280][908]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.03:784][934]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -66.0
+[2023.10.12-18.56.03:784][934]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.04:297][959]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -67.0
+[2023.10.12-18.56.04:297][959]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.05:817][ 36]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -68.0
+[2023.10.12-18.56.05:817][ 36]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.06:319][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -69.0
+[2023.10.12-18.56.06:320][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.13:461][442]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -70.0
+[2023.10.12-18.56.13:462][442]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.13:978][468]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -71.0
+[2023.10.12-18.56.13:979][468]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.14:488][493]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -72.0
+[2023.10.12-18.56.14:489][493]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.21:659][872]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -73.0
+[2023.10.12-18.56.21:659][872]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.22:174][898]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -74.0
+[2023.10.12-18.56.22:174][898]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.22:689][923]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -75.0
+[2023.10.12-18.56.22:690][923]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.23:193][949]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -76.0
+[2023.10.12-18.56.23:194][949]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.23:705][976]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -77.0
+[2023.10.12-18.56.23:705][976]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.24:729][ 29]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -78.0
+[2023.10.12-18.56.24:729][ 29]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.31:838][407]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -79.0
+[2023.10.12-18.56.31:839][407]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.32:354][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -80.0
+[2023.10.12-18.56.32:354][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.32:861][460]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -81.0
+[2023.10.12-18.56.32:861][460]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-18.56.34:763][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-18.56.34:763][558]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.12-18.56.34:763][558]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-18.56.34:764][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-18.56.34:764][558]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.12-18.56.34:771][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-18.56.34:778][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-18.56.34:826][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-18.56.34:826][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2023.10.12-18.56.34:827][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.10.12-18.56.34:830][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.10.12-18.56.34:847][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.10.12-18.56.34:892][559]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2023.10.12-18.57.34:557][729]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.10.12-18.58.04:843][741]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [29 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.58.05:777][741]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 0 (Found bundle for host: 0x9c764170420 [serially])
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 1 (Re-using existing connection #18 with host datarouter.ol.epicgames.com)
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.132.187) port 443 (#18))
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.12-18.58.05:821][742]LogHttp: Warning: 000009C81A859100: libcurl info message cache 7 (Closing connection 18)
+[2023.10.12-18.58.05:822][742]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.12-18.58.10:777][748]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.58.15:372][760]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=9356.42
+[2023.10.12-18.58.15:373][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-18.58.15:485][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.12-18.58.15:627][761]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-18.58.20:626][774]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-18.58.25:097][794]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=9421.78
+[2023.10.12-18.58.25:097][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-18.58.25:104][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.12-18.58.25:137][795]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-18.58.27:220][840]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2055.01
+[2023.10.12-18.58.27:220][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-18.58.27:228][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.12-18.58.45:868][345]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.12-18.59.28:121][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.28:122][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.28:136][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_0
+[2023.10.12-18.59.28:143][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_0
+[2023.10.12-18.59.28:746][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.28:746][ 99]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.28:816][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1842036191
+[2023.10.12-18.59.28:822][ 99]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1842036191
+[2023.10.12-18.59.39:926][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.39:926][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.39:929][542]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_1
+[2023.10.12-18.59.39:931][542]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_1
+[2023.10.12-18.59.41:103][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.41:103][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C
+[2023.10.12-18.59.41:111][590]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192
+[2023.10.12-18.59.41:113][590]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character as actor: Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192
+[2023.10.12-18.59.50:150][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.12-18.59.50:163][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.12-18.59.50:233][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7E/MECC0RXG4EFKH7JSQJQ8WJ
+[2023.10.12-18.59.50:233][  5]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/MECC0RXG4EFKH7JSQJQ8WJCA1DD882419FAFF36CE21986C942F0EE.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7E/MECC0RXG4EFKH7JSQJQ8WJ.uasset'
+[2023.10.12-18.59.50:244][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/3I/UQ9HDSIVOZX7SKFCN3DOG5
+[2023.10.12-18.59.50:244][  5]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/UQ9HDSIVOZX7SKFCN3DOG5F3D6B3F84C2B813CF29E66B0A8A48652.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/3I/UQ9HDSIVOZX7SKFCN3DOG5.uasset'
+[2023.10.12-18.59.50:285][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.76 sec)
+[2023.10.12-18.59.50:296][  5]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.12-18.59.50:296][  5]LogContentValidation: Display: Validating /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192
+[2023.10.12-18.59.50:296][  5]LogContentValidation: Display: Validating /Game/FirstPerson/AI/Enemy_Character.Enemy_Character_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_Character_C_UAID_088FC30B5ACCF5B101_1842036191
+[2023.10.12-18.59.51:225][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.12-18.59.51:239][ 53]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.12-18.59.51:239][ 53]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.12-18.59.51:250][ 53]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11 ms (total: 575 ms)
+[2023.10.12-18.59.51:250][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-18.59.51:250][ 53]PIE: New page: PIE session: FirstPersonMap (Oct 12, 2023, 10:59:51 AM)
+[2023.10.12-18.59.51:251][ 53]LogPlayLevel: Display: Creating online subsystem for client :Context_138
+[2023.10.12-18.59.51:254][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2023.10.12-18.59.51:280][ 54]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.12-18.59.51:288][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008313s)
+[2023.10.12-18.59.51:288][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008368s)
+[2023.10.12-18.59.51:313][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.10.12-18.59.51:317][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-18.59.51:317][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-18.59.51:318][ 54]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.12-18.59.51:319][ 54]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.12-18.59.51:319][ 54]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.12-18.59.51:319][ 54]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.12-18.59.51:319][ 54]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.12-18.59.51:321][ 54]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.12-18.59.51:321][ 54]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 328 ms)
+[2023.10.12-18.59.51:321][ 54]LogPlayLevel: PIE: World Init took: (0.004881s)
+[2023.10.12-18.59.51:321][ 54]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-18.59.51:321][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.12-18.59.51:321][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-18.59.51:322][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-18.59.51:322][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-18.59.51:322][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-18.59.51:325][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-18.59.51:458][ 54]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.12-18.59.51:459][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-18.59.51:459][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-18.59.51:459][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-18.59.51:461][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2023.10.12-18.59.51:461][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2023.10.12-18.59.51:464][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2023.10.12-18.59.51:464][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2023.10.12-18.59.51:464][ 54]LogInit: FAudioDevice initialized with ID 59.
+[2023.10.12-18.59.51:464][ 54]LogAudio: Display: Audio Device (ID: 59) registered with world 'FirstPersonMap'.
+[2023.10.12-18.59.51:464][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2023.10.12-18.59.51:466][ 54]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.12-18.59.51:470][ 54]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.10.12-14.59.51
+[2023.10.12-18.59.51:473][ 54]LogWorld: Bringing up level for play took: 0.006413
+[2023.10.12-18.59.51:478][ 54]PIE: Server logged in
+[2023.10.12-18.59.51:479][ 54]PIE: Play in editor total start time 0.24 seconds.
+[2023.10.12-18.59.59:243][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -1.0
+[2023.10.12-18.59.59:243][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.00:171][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -2.0
+[2023.10.12-19.00.00:172][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.00:255][532]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -3.0
+[2023.10.12-19.00.00:255][532]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.00:671][553]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -4.0
+[2023.10.12-19.00.00:671][553]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.00:771][558]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -5.0
+[2023.10.12-19.00.00:771][558]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.01:177][579]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -6.0
+[2023.10.12-19.00.01:177][579]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.01:703][597]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -7.0
+[2023.10.12-19.00.01:703][597]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.01:799][600]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -8.0
+[2023.10.12-19.00.01:799][600]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.02:223][614]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -9.0
+[2023.10.12-19.00.02:223][614]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.02:312][617]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -10.0
+[2023.10.12-19.00.02:312][617]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.02:744][631]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -11.0
+[2023.10.12-19.00.02:745][631]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.05:830][735]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -12.0
+[2023.10.12-19.00.05:831][735]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.05:922][738]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -13.0
+[2023.10.12-19.00.05:923][738]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.06:340][752]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -14.0
+[2023.10.12-19.00.06:341][752]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.06:428][755]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -15.0
+[2023.10.12-19.00.06:428][755]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.06:848][770]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -16.0
+[2023.10.12-19.00.06:848][770]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.08:890][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -17.0
+[2023.10.12-19.00.08:890][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.10:924][975]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -18.0
+[2023.10.12-19.00.10:925][975]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.11:435][  1]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -19.0
+[2023.10.12-19.00.11:435][  1]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.18:563][371]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -20.0
+[2023.10.12-19.00.18:563][371]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.20:625][476]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -21.0
+[2023.10.12-19.00.20:626][476]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.21:142][500]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -22.0
+[2023.10.12-19.00.21:142][500]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.21:650][525]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -23.0
+[2023.10.12-19.00.21:650][525]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.22:161][551]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -24.0
+[2023.10.12-19.00.22:161][551]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.22:659][576]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -25.0
+[2023.10.12-19.00.22:659][576]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.23:160][601]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -26.0
+[2023.10.12-19.00.23:161][601]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.23:199][603]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -27.0
+[2023.10.12-19.00.23:199][603]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.23:258][606]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -28.0
+[2023.10.12-19.00.23:258][606]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.23:661][627]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -29.0
+[2023.10.12-19.00.23:661][627]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.27:220][808]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -30.0
+[2023.10.12-19.00.27:220][808]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.27:261][810]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -31.0
+[2023.10.12-19.00.27:262][810]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.30:267][965]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -32.0
+[2023.10.12-19.00.30:267][965]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.30:785][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -33.0
+[2023.10.12-19.00.30:785][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.30:923][997]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -34.0
+[2023.10.12-19.00.30:924][997]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.31:297][ 15]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -35.0
+[2023.10.12-19.00.31:297][ 15]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.31:431][ 22]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -36.0
+[2023.10.12-19.00.31:431][ 22]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.31:816][ 41]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -37.0
+[2023.10.12-19.00.31:817][ 41]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.32:326][ 65]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -38.0
+[2023.10.12-19.00.32:326][ 65]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.32:843][ 89]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -39.0
+[2023.10.12-19.00.32:843][ 89]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.33:343][113]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -40.0
+[2023.10.12-19.00.33:343][113]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.33:406][116]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -41.0
+[2023.10.12-19.00.33:406][116]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.33:919][140]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -42.0
+[2023.10.12-19.00.33:919][140]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.34:370][161]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -43.0
+[2023.10.12-19.00.34:370][161]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.34:474][166]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -44.0
+[2023.10.12-19.00.34:474][166]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.34:986][191]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -45.0
+[2023.10.12-19.00.34:986][191]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.35:983][242]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -46.0
+[2023.10.12-19.00.35:983][242]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.36:496][268]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -47.0
+[2023.10.12-19.00.36:496][268]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.39:047][390]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -48.0
+[2023.10.12-19.00.39:048][390]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.39:583][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -49.0
+[2023.10.12-19.00.39:584][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.41:117][455]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -50.0
+[2023.10.12-19.00.41:117][455]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.41:641][473]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -51.0
+[2023.10.12-19.00.41:642][473]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.42:157][491]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -52.0
+[2023.10.12-19.00.42:158][491]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.43:187][525]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -53.0
+[2023.10.12-19.00.43:187][525]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.43:599][539]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -54.0
+[2023.10.12-19.00.43:599][539]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.44:631][577]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -55.0
+[2023.10.12-19.00.44:631][577]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.44:730][582]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -56.0
+[2023.10.12-19.00.44:730][582]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.44:748][583]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -57.0
+[2023.10.12-19.00.44:748][583]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.45:146][603]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -58.0
+[2023.10.12-19.00.45:146][603]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.45:267][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -59.0
+[2023.10.12-19.00.45:267][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.45:650][628]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -60.0
+[2023.10.12-19.00.45:650][628]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.45:785][635]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -61.0
+[2023.10.12-19.00.45:785][635]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.46:666][679]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -62.0
+[2023.10.12-19.00.46:666][679]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.48:822][789]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -63.0
+[2023.10.12-19.00.48:822][789]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.48:824][789]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -64.0
+[2023.10.12-19.00.48:824][789]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.49:342][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -65.0
+[2023.10.12-19.00.49:343][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.49:343][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -66.0
+[2023.10.12-19.00.49:343][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.49:862][840]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -67.0
+[2023.10.12-19.00.49:862][840]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.50:233][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -68.0
+[2023.10.12-19.00.50:233][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.50:386][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -69.0
+[2023.10.12-19.00.50:386][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.50:387][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -70.0
+[2023.10.12-19.00.50:387][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.50:898][890]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -71.0
+[2023.10.12-19.00.50:899][890]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.51:249][908]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -72.0
+[2023.10.12-19.00.51:249][908]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.51:404][916]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -73.0
+[2023.10.12-19.00.51:404][916]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.51:755][934]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -74.0
+[2023.10.12-19.00.51:755][934]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.51:915][942]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -75.0
+[2023.10.12-19.00.51:915][942]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.52:414][967]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -76.0
+[2023.10.12-19.00.52:414][967]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.52:920][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -77.0
+[2023.10.12-19.00.52:920][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.53:919][ 42]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -78.0
+[2023.10.12-19.00.53:919][ 42]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.56:985][200]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -79.0
+[2023.10.12-19.00.56:985][200]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.57:367][219]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -80.0
+[2023.10.12-19.00.57:367][219]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.00.58:506][275]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -81.0
+[2023.10.12-19.00.58:506][275]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.00:526][379]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -82.0
+[2023.10.12-19.01.00:526][379]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.00:937][399]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -83.0
+[2023.10.12-19.01.00:937][399]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.01:039][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -84.0
+[2023.10.12-19.01.01:039][404]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.01:241][414]LogCharacterMovement: Enemy_Character_C_UAID_088FC30B5ACCCAAF01_1108299511 is stuck and failed to move! Velocity: X=-98.44 Y=-50.66 Z=0.00 Location: X=1787.84 Y=2487.71 Z=98.21 Normal: X=0.72 Y=-0.69 Z=0.00 PenetrationDepth:4.191 Actor:Enemy_Character_C_UAID_088FC30B5ACCF5B101_1842036191 Component:Cylinder BoneName:None (0 other events since notify)
+[2023.10.12-19.01.01:555][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -85.0
+[2023.10.12-19.01.01:555][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.01:955][449]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -86.0
+[2023.10.12-19.01.01:955][449]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.02:055][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -87.0
+[2023.10.12-19.01.02:056][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.02:056][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -88.0
+[2023.10.12-19.01.02:056][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.02:559][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -89.0
+[2023.10.12-19.01.02:559][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.02:560][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -90.0
+[2023.10.12-19.01.02:560][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.03:073][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -91.0
+[2023.10.12-19.01.03:073][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.03:074][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -92.0
+[2023.10.12-19.01.03:074][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.09:246][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -93.0
+[2023.10.12-19.01.09:246][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.09:752][853]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -94.0
+[2023.10.12-19.01.09:752][853]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.11:793][959]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -95.0
+[2023.10.12-19.01.11:793][959]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.12:298][985]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -96.0
+[2023.10.12-19.01.12:298][985]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.12:299][985]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -97.0
+[2023.10.12-19.01.12:300][985]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.12:802][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -98.0
+[2023.10.12-19.01.12:802][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.12:803][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -99.0
+[2023.10.12-19.01.12:804][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.16:989][231]LogCharacterMovement: Enemy_Character_C_UAID_088FC30B5ACCCAAF01_1108299511 is stuck and failed to move! Velocity: X=79.31 Y=-183.60 Z=0.00 Location: X=1689.38 Y=598.11 Z=98.21 Normal: X=0.99 Y=0.12 Z=0.00 PenetrationDepth:2.236 Actor:Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192 Component:Cylinder BoneName:None (1 other events since notify)
+[2023.10.12-19.01.16:990][231]LogCharacterMovement: Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192 is stuck and failed to move! Velocity: X=195.00 Y=-44.42 Z=0.00 Location: X=1580.78 Y=579.98 Z=98.21 Normal: X=0.86 Y=0.50 Z=0.00 PenetrationDepth:3.559 Actor:Enemy_Character_C_UAID_088FC30B5ACCF5B101_1842036191 Component:Cylinder BoneName:None (0 other events since notify)
+[2023.10.12-19.01.17:999][282]LogCharacterMovement: Enemy_Character_C_UAID_088FC30B5ACCCAAF01_1108299511 is stuck and failed to move! Velocity: X=80.86 Y=-182.93 Z=0.00 Location: X=1689.42 Y=597.56 Z=98.21 Normal: X=1.00 Y=0.07 Z=0.00 PenetrationDepth:2.828 Actor:Enemy_Character_C_UAID_088FC30B5ACCF5B101_1854391192 Component:Cylinder BoneName:None (47 other events since notify)
+[2023.10.12-19.01.18:422][303]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -100.0
+[2023.10.12-19.01.18:423][303]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.20:451][408]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -101.0
+[2023.10.12-19.01.20:451][408]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.22:331][505]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -102.0
+[2023.10.12-19.01.22:332][505]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.22:838][531]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -103.0
+[2023.10.12-19.01.22:839][531]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.23:347][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -104.0
+[2023.10.12-19.01.23:347][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.23:505][565]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -105.0
+[2023.10.12-19.01.23:506][565]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.24:012][590]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -106.0
+[2023.10.12-19.01.24:012][590]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.25:028][641]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -107.0
+[2023.10.12-19.01.25:028][641]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.27:073][744]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -108.0
+[2023.10.12-19.01.27:073][744]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.30:119][901]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -109.0
+[2023.10.12-19.01.30:120][901]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.30:623][927]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -110.0
+[2023.10.12-19.01.30:623][927]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.30:624][927]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -111.0
+[2023.10.12-19.01.30:624][927]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.30:975][945]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -112.0
+[2023.10.12-19.01.30:975][945]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.31:136][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -113.0
+[2023.10.12-19.01.31:136][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.31:477][971]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -114.0
+[2023.10.12-19.01.31:477][971]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.31:983][998]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -115.0
+[2023.10.12-19.01.31:983][998]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.32:988][ 51]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -116.0
+[2023.10.12-19.01.32:988][ 51]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.33:502][ 79]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -117.0
+[2023.10.12-19.01.33:502][ 79]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.33:690][ 90]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -118.0
+[2023.10.12-19.01.33:691][ 90]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.34:014][108]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] -119.0
+[2023.10.12-19.01.34:014][108]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Game Over!
+[2023.10.12-19.01.34:211][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-19.01.34:211][117]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.12-19.01.34:212][117]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-19.01.34:213][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-19.01.34:213][117]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.12-19.01.34:222][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-19.01.34:228][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-19.01.34:258][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-19.01.34:260][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2023.10.12-19.01.34:260][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.10.12-19.01.34:263][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.10.12-19.01.34:280][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.10.12-19.01.34:385][118]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2023.10.12-19.01.37:494][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
