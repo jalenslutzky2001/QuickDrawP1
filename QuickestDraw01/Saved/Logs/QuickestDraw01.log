@@ -14237,3 +14237,71 @@ Script Stack (0 frames) :
 [2023.10.12-21.30.40:954][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.10.12-21.30.40:957][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2023.10.12-21.30.41:039][476]LogPlayLevel: Display: Destroying online subsystem :Context_202
+[2023.10.12-21.32.27:869][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.10.12-21.32.27:873][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.10.12-21.32.27:874][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2023.10.12-21.32.27:937][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile]
+[2023.10.12-21.32.27:938][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2023.10.12-21.32.27:950][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto9
+[2023.10.12-21.32.27:950][ 54]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonProjectile_Auto956C79B2B471BC9DF16E22BBD04BE8FD0.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto9.uasset'
+[2023.10.12-21.32.27:952][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/AI/Enemy_Character] ([2] browsable assets)...
+[2023.10.12-21.32.27:977][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character]
+[2023.10.12-21.32.27:977][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/Enemy_Character]
+[2023.10.12-21.32.27:992][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto9
+[2023.10.12-21.32.27:992][ 54]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Enemy_Character_Auto9ED4C0E714E36855D55C92999B78DCA31.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto9.uasset'
+[2023.10.12-21.32.27:993][ 54]LogFileHelpers: Auto-saving content packages took 0.120
+[2023.10.12-21.40.59:334][928]Cmd: SELECT NONE
+[2023.10.12-21.47.11:409][883]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.12-21.47.11:722][884]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.12-21.47.13:383][889]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1508.33
+[2023.10.12-21.47.13:385][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.12-21.47.13:389][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.13-00.47.15:843][895]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: libcurl info message cache 0 (Too old connection (10835 seconds idle), disconnect it)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: libcurl info message cache 1 (Connection 19 seems to be dead)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: libcurl info message cache 2 (Closing connection 19)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: 000009C840779100: libcurl info message cache 4 (Closing connection 20)
+[2023.10.13-00.47.16:761][897]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.13-00.47.18:276][899]Could not fetch the local adapter addresses
+[2023.10.13-00.47.18:277][899]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.47.18:861][900]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.47.20:543][903]Could not fetch the local adapter addresses
+[2023.10.13-00.47.20:544][903]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.47.21:358][904]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.47.24:787][907]LogUdpMessaging: Display: Added local interface '192.168.1.69' to multicast group '230.0.0.1:6666'
+[2023.10.16-20.45.35:843][909]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [331095 Seconds] waiting for h/w. InstanceID=1
+[2023.10.16-20.45.35:921][909]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.16-20.45.39:996][909]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.16-20.45.40:053][910]LogHttp: Warning: 000009C840775000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.16-20.45.40:054][910]LogHttp: Warning: 000009C840775000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.16-20.45.40:054][910]LogHttp: Warning: 000009C840775000: libcurl info message cache 1 (Closing connection 21)
+[2023.10.16-20.45.40:054][910]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.16-20.45.40:312][910]Could not fetch the local adapter addresses
+[2023.10.16-20.45.40:313][910]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.16-20.45.40:426][911]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.16-20.45.41:696][914]Could not fetch the local adapter addresses
+[2023.10.16-20.45.41:696][914]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.16-20.45.41:845][914]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1749.56
+[2023.10.16-20.45.41:846][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.16-20.45.41:864][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.16-21.13.53:187][981]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.301 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 575 files in 968 folders with total size 12 MiB.
+[2023.10.17-04.45.03:770][740]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [26491 Seconds] waiting for h/w. InstanceID=1
+[2023.10.17-04.45.04:832][740]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.17-04.45.05:189][742]LogHttp: Warning: 000009C84077B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.17-04.45.05:190][742]LogHttp: Warning: 000009C84077B400: libcurl info message cache 0 (Too old connection (26491 seconds idle), disconnect it)
+[2023.10.17-04.45.05:191][742]LogHttp: Warning: 000009C84077B400: libcurl info message cache 1 (Connection 22 seems to be dead)
+[2023.10.17-04.45.05:191][742]LogHttp: Warning: 000009C84077B400: libcurl info message cache 2 (Closing connection 22)
+[2023.10.17-04.45.05:191][742]LogHttp: Warning: 000009C84077B400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.17-04.45.05:191][742]LogHttp: Warning: 000009C84077B400: libcurl info message cache 4 (Closing connection 23)
+[2023.10.17-04.45.05:191][742]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315FE865-4DB6-DFEE-D45E-468B36FACC4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.17-04.45.05:493][742]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=383.26
+[2023.10.17-04.45.05:493][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.17-04.45.05:509][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.17-05.48.31:054][ 27]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [1717 Seconds] waiting for h/w. InstanceID=1
+[2023.10.17-05.48.32:364][ 27]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17360
+[2023.10.17-05.48.33:993][ 32]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1371.58
+[2023.10.17-05.48.33:994][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.17-05.48.33:998][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.17-06.03.43:498][760]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 575 files in 968 folders with total size 12 MiB.
