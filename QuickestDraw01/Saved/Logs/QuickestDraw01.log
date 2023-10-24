@@ -1762,3 +1762,691 @@ Minimum required: 527.27
 [2023.10.23-01.38.08:198][805]LogHttp: Warning: 000009C3BE45DC00: libcurl info message cache 1 (Closing connection 11)
 [2023.10.23-01.38.08:198][805]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2023.10.23-02.24.59:171][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.10.23-02.25.11:154][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-02.25.11:224][407]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-02.25.11:225][407]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.23-02.25.11:258][407]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 32 ms (total: 83 ms)
+[2023.10.23-02.25.11:273][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-02.25.11:284][407]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2023, 6:25:11 PM)
+[2023.10.23-02.25.11:296][407]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2023.10.23-02.25.11:308][407]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.10.23-02.25.11:452][408]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.25.11:599][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145434s)
+[2023.10.23-02.25.11:599][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.147345s)
+[2023.10.23-02.25.11:827][408]LogUObjectHash: Compacting FUObjectHashTables data took  18.39ms
+[2023.10.23-02.25.11:864][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.25.11:881][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-02.25.11:907][408]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.23-02.25.11:939][408]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-02.25.11:939][408]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-02.25.11:940][408]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.23-02.25.11:940][408]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.23-02.25.11:943][408]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.23-02.25.11:946][408]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 81 ms)
+[2023.10.23-02.25.11:950][408]LogPlayLevel: PIE: World Init took: (0.093452s)
+[2023.10.23-02.25.11:953][408]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.23-02.25.11:955][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.23-02.25.11:955][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-02.25.11:964][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-02.25.11:965][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-02.25.11:965][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-02.25.11:967][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-02.25.12:073][408]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.23-02.25.12:091][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-02.25.12:092][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-02.25.12:094][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-02.25.12:109][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.10.23-02.25.12:109][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.10.23-02.25.12:114][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.10.23-02.25.12:114][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.10.23-02.25.12:116][408]LogInit: FAudioDevice initialized with ID 8.
+[2023.10.23-02.25.12:116][408]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2023.10.23-02.25.12:117][408]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.23-02.25.12:147][408]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.23-02.25.12:203][408]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.22-22.25.12
+[2023.10.23-02.25.12:246][408]LogWorld: Bringing up level for play took: 0.092112
+[2023.10.23-02.25.12:359][408]PIE: Server logged in
+[2023.10.23-02.25.12:361][408]PIE: Play in editor total start time 1.14 seconds.
+[2023.10.23-02.26.43:089][332]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 916 files in 1506 folders with total size 14 MiB.
+[2023.10.23-02.27.46:234][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.27.46:235][920]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.27.46:245][920]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-02.27.46:251][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.27.46:252][920]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.23-02.27.46:267][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-02.27.46:273][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.27.46:298][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.23-02.27.46:298][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.23-02.27.46:300][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.23-02.27.46:302][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.23-02.27.46:314][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.27.46:341][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.23-02.27.46:397][921]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.10.23-02.34.49:772][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.34.49:850][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.34.57:946][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-02.34.57:954][463]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-02.34.57:954][463]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.23-02.34.57:957][463]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 87 ms)
+[2023.10.23-02.34.57:958][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-02.34.57:958][463]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2023, 6:34:57 PM)
+[2023.10.23-02.34.57:958][463]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2023.10.23-02.34.57:965][463]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.10.23-02.34.57:985][464]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.34.57:990][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005418s)
+[2023.10.23-02.34.57:990][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005462s)
+[2023.10.23-02.34.58:028][464]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2023.10.23-02.34.58:030][464]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.34.58:030][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-02.34.58:031][464]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.23-02.34.58:032][464]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-02.34.58:032][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-02.34.58:032][464]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.23-02.34.58:032][464]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.23-02.34.58:033][464]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.23-02.34.58:033][464]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 82 ms)
+[2023.10.23-02.34.58:033][464]LogPlayLevel: PIE: World Init took: (0.003218s)
+[2023.10.23-02.34.58:033][464]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.23-02.34.58:034][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.23-02.34.58:034][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-02.34.58:034][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-02.34.58:034][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-02.34.58:034][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-02.34.58:037][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-02.34.58:135][464]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.23-02.34.58:137][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-02.34.58:137][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-02.34.58:137][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-02.34.58:145][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.23-02.34.58:145][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.10.23-02.34.58:147][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.23-02.34.58:148][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.23-02.34.58:148][464]LogInit: FAudioDevice initialized with ID 9.
+[2023.10.23-02.34.58:148][464]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2023.10.23-02.34.58:148][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.23-02.34.58:150][464]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.23-02.34.58:153][464]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.22-22.34.58
+[2023.10.23-02.34.58:154][464]LogWorld: Bringing up level for play took: 0.003549
+[2023.10.23-02.34.58:159][464]PIE: Server logged in
+[2023.10.23-02.34.58:160][464]PIE: Play in editor total start time 0.205 seconds.
+[2023.10.23-02.35.26:016][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.35.26:016][692]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.35.26:017][692]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-02.35.26:017][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.35.26:017][692]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.23-02.35.26:020][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-02.35.26:025][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.35.26:050][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.35.26:050][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.23-02.35.26:050][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.23-02.35.26:052][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.23-02.35.26:070][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.23-02.35.26:178][693]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.23-02.35.49:237][294]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-02.35.49:244][294]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-02.35.49:245][294]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.23-02.35.49:250][294]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 92 ms)
+[2023.10.23-02.35.49:250][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-02.35.49:250][294]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2023, 6:35:49 PM)
+[2023.10.23-02.35.49:250][294]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2023.10.23-02.35.49:252][294]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.23-02.35.49:279][295]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.35.49:286][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006868s)
+[2023.10.23-02.35.49:286][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006925s)
+[2023.10.23-02.35.49:311][295]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2023.10.23-02.35.49:314][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.35.49:314][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-02.35.49:315][295]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.23-02.35.49:316][295]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-02.35.49:316][295]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-02.35.49:316][295]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.23-02.35.49:316][295]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.23-02.35.49:317][295]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.23-02.35.49:317][295]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 83 ms)
+[2023.10.23-02.35.49:317][295]LogPlayLevel: PIE: World Init took: (0.003365s)
+[2023.10.23-02.35.49:317][295]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.23-02.35.49:317][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.23-02.35.49:317][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-02.35.49:318][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-02.35.49:318][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-02.35.49:318][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-02.35.49:325][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-02.35.49:420][295]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.23-02.35.49:422][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-02.35.49:422][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-02.35.49:422][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-02.35.49:422][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.23-02.35.49:422][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.23-02.35.49:425][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.23-02.35.49:425][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.23-02.35.49:425][295]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.23-02.35.49:425][295]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2023.10.23-02.35.49:425][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.23-02.35.49:426][295]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.23-02.35.49:429][295]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.22-22.35.49
+[2023.10.23-02.35.49:430][295]LogWorld: Bringing up level for play took: 0.003247
+[2023.10.23-02.35.49:435][295]PIE: Server logged in
+[2023.10.23-02.35.49:435][295]PIE: Play in editor total start time 0.191 seconds.
+[2023.10.23-02.36.35:757][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.36.35:757][244]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.36.35:757][244]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-02.36.35:757][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.36.35:757][244]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.23-02.36.35:768][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-02.36.35:773][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.36.35:791][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.36.35:791][244]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.23-02.36.35:791][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.23-02.36.35:796][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.23-02.36.35:810][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.23-02.36.35:911][245]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.23-02.39.08:365][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-02.39.08:373][161]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-02.39.08:373][161]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.23-02.39.08:378][161]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 97 ms)
+[2023.10.23-02.39.08:378][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-02.39.08:378][161]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2023, 6:39:08 PM)
+[2023.10.23-02.39.08:379][161]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2023.10.23-02.39.08:381][161]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.23-02.39.08:395][162]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.39.08:400][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005076s)
+[2023.10.23-02.39.08:400][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005122s)
+[2023.10.23-02.39.08:438][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.23-02.39.08:442][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.39.08:442][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-02.39.08:444][162]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.23-02.39.08:445][162]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-02.39.08:445][162]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-02.39.08:445][162]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.23-02.39.08:445][162]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.23-02.39.08:446][162]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.23-02.39.08:446][162]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 84 ms)
+[2023.10.23-02.39.08:446][162]LogPlayLevel: PIE: World Init took: (0.003651s)
+[2023.10.23-02.39.08:446][162]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.23-02.39.08:446][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.23-02.39.08:446][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-02.39.08:446][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-02.39.08:446][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-02.39.08:446][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-02.39.08:449][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-02.39.08:542][162]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.23-02.39.08:542][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-02.39.08:542][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-02.39.08:542][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-02.39.08:543][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.10.23-02.39.08:543][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.10.23-02.39.08:544][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.10.23-02.39.08:545][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.10.23-02.39.08:550][162]LogInit: FAudioDevice initialized with ID 11.
+[2023.10.23-02.39.08:550][162]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.10.23-02.39.08:550][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.23-02.39.08:551][162]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.23-02.39.08:553][162]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.22-22.39.08
+[2023.10.23-02.39.08:555][162]LogWorld: Bringing up level for play took: 0.003154
+[2023.10.23-02.39.08:558][162]PIE: Server logged in
+[2023.10.23-02.39.08:559][162]PIE: Play in editor total start time 0.185 seconds.
+[2023.10.23-02.40.20:187][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.40.20:187][318]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.40.20:187][318]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-02.40.20:188][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.40.20:188][318]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.23-02.40.20:192][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-02.40.20:197][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.40.20:216][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.40.20:217][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.23-02.40.20:217][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.23-02.40.20:219][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.23-02.40.20:237][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.23-02.40.20:337][319]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.23-02.40.21:812][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-02.40.21:825][428]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-02.40.21:825][428]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.23-02.40.21:829][428]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 101 ms)
+[2023.10.23-02.40.21:829][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-02.40.21:829][428]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2023, 6:40:21 PM)
+[2023.10.23-02.40.21:865][428]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2023.10.23-02.40.21:890][428]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.10.23-02.40.21:903][429]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.40.21:908][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004860s)
+[2023.10.23-02.40.21:908][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004903s)
+[2023.10.23-02.40.21:930][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.23-02.40.21:933][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-02.40.21:933][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-02.40.21:934][429]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.23-02.40.21:934][429]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-02.40.21:934][429]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-02.40.21:934][429]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.23-02.40.21:934][429]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.23-02.40.21:936][429]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.23-02.40.21:936][429]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 85 ms)
+[2023.10.23-02.40.21:936][429]LogPlayLevel: PIE: World Init took: (0.002856s)
+[2023.10.23-02.40.21:936][429]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.23-02.40.21:936][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.23-02.40.21:936][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-02.40.21:936][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-02.40.21:936][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-02.40.21:936][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-02.40.21:938][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-02.40.22:033][429]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.23-02.40.22:033][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-02.40.22:033][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-02.40.22:034][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-02.40.22:034][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.10.23-02.40.22:034][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.10.23-02.40.22:037][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.10.23-02.40.22:037][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.10.23-02.40.22:038][429]LogInit: FAudioDevice initialized with ID 12.
+[2023.10.23-02.40.22:038][429]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2023.10.23-02.40.22:038][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.23-02.40.22:040][429]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.23-02.40.22:044][429]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.22-22.40.22
+[2023.10.23-02.40.22:045][429]LogWorld: Bringing up level for play took: 0.004636
+[2023.10.23-02.40.22:049][429]PIE: Server logged in
+[2023.10.23-02.40.22:050][429]PIE: Play in editor total start time 0.225 seconds.
+[2023.10.23-02.44.11:205][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.44.11:206][477]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.23-02.44.11:206][477]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-02.44.11:206][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.44.11:206][477]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.23-02.44.11:214][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-02.44.11:221][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-02.44.11:238][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-02.44.11:238][477]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.23-02.44.11:239][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.23-02.44.11:242][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.23-02.44.11:257][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.23-02.44.11:336][478]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.10.23-02.53.27:006][300]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.23-02.53.27:021][301]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.23-02.53.27:357][301]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=234.74
+[2023.10.23-02.53.27:357][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.23-02.53.27:360][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.23-05.53.33:346][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 0 (Too old connection (10808 seconds idle), disconnect it)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 2 (Closing connection 12)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.23-05.53.33:682][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.23-05.53.33:683][316]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 5 (Closing connection 13)
+[2023.10.23-05.53.33:683][316]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.23-05.53.44:310][332]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.23-21.58.11:769][346]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [57869 Seconds] waiting for h/w. InstanceID=1
+[2023.10.23-21.58.12:062][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.23-21.58.12:357][346]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.23-21.58.12:946][349]LogHttp: Warning: 000009C3C783AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.23-21.58.12:946][349]LogHttp: Warning: 000009C3C783AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.23-21.58.12:946][349]LogHttp: Warning: 000009C3C783AF00: libcurl info message cache 1 (Closing connection 14)
+[2023.10.23-21.58.12:946][349]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.23-21.58.14:283][352]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1817.32
+[2023.10.23-21.58.14:283][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.23-21.58.14:292][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-01.13.42:614][132]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10805 Seconds] waiting for h/w. InstanceID=1
+[2023.10.24-01.13.43:216][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-01.13.43:219][132]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 0 (Too old connection (10813 seconds idle), disconnect it)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 1 (Connection 15 seems to be dead)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 2 (Closing connection 15)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 4 (Closing connection 16)
+[2023.10.24-01.13.43:276][133]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-01.13.44:260][135]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=850.20
+[2023.10.24-01.13.44:261][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.24-01.13.44:289][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-05.06.17:101][175]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [13943 Seconds] waiting for h/w. InstanceID=1
+[2023.10.24-05.06.18:006][175]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-05.06.18:040][175]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.24-05.06.18:800][178]LogHttp: Warning: 000009C3C7839B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-05.06.18:800][178]LogHttp: Warning: 000009C3C7839B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-05.06.18:800][178]LogHttp: Warning: 000009C3C7839B00: libcurl info message cache 1 (Closing connection 17)
+[2023.10.24-05.06.18:800][178]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-05.06.20:168][181]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2026.07
+[2023.10.24-05.06.20:168][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.24-05.06.20:173][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-05.23.16:534][227]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.237 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 916 files in 1506 folders with total size 14 MiB.
+[2023.10.24-08.35.08:647][361]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10804 Seconds] waiting for h/w. InstanceID=1
+[2023.10.24-08.35.09:262][361]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-08.35.09:275][361]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.24-08.35.09:661][363]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=351.75
+[2023.10.24-08.35.09:661][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.24-08.35.09:673][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 0 (Too old connection (10844 seconds idle), disconnect it)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 2 (Closing connection 18)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: 000009C3C7836400: libcurl info message cache 4 (Closing connection 19)
+[2023.10.24-08.35.09:682][364]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-12.35.45:455][375]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-12.35.45:456][375]LogHttp: Warning: 000009C3C783AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-12.35.45:456][375]LogHttp: Warning: 000009C3C783AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-12.35.45:456][375]LogHttp: Warning: 000009C3C783AF00: libcurl info message cache 1 (Closing connection 20)
+[2023.10.24-12.35.45:456][375]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-12.45.32:174][827]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 0 (Too old connection (129 seconds idle), disconnect it)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 1 (Connection 21 seems to be dead)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 2 (Closing connection 21)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: 000009C3C783FA00: libcurl info message cache 5 (Closing connection 22)
+[2023.10.24-12.45.32:178][827]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-17.54.55:653][978]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [18515 Seconds] waiting for h/w. InstanceID=1
+[2023.10.24-17.54.58:551][978]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-17.54.58:627][978]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.24-17.54.58:876][980]LogHttp: Warning: 000009C3C783D700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-17.54.58:877][980]LogHttp: Warning: 000009C3C783D700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-17.54.58:877][980]LogHttp: Warning: 000009C3C783D700: libcurl info message cache 1 (Closing connection 23)
+[2023.10.24-17.54.58:877][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-17.54.59:542][981]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=628.86
+[2023.10.24-17.54.59:542][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.24-17.54.59:547][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-17.56.21:574][228]LogHttp: Warning: 000009C3C7836900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-17.56.21:575][228]LogHttp: Warning: 000009C3C7836900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-17.56.21:575][228]LogHttp: Warning: 000009C3C7836900: libcurl info message cache 1 (Closing connection 24)
+[2023.10.24-17.56.21:575][228]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-17.57.21:585][408]LogHttp: Warning: 000009C3C7838C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-17.57.21:586][408]LogHttp: Warning: 000009C3C7838C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-17.57.21:586][408]LogHttp: Warning: 000009C3C7838C00: libcurl info message cache 1 (Closing connection 25)
+[2023.10.24-17.57.21:586][408]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-17.58.21:600][588]LogHttp: Warning: 000009C3C783CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-17.58.21:600][588]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-17.58.21:600][588]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 1 (Closing connection 26)
+[2023.10.24-17.58.21:600][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-17.59.21:617][768]LogHttp: Warning: 000009C3C7831400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-17.59.21:618][768]LogHttp: Warning: 000009C3C7831400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-17.59.21:618][768]LogHttp: Warning: 000009C3C7831400: libcurl info message cache 1 (Closing connection 27)
+[2023.10.24-17.59.21:618][768]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.00.21:635][948]LogHttp: Warning: 000009C3C7835A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.00.21:635][948]LogHttp: Warning: 000009C3C7835A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.00.21:635][948]LogHttp: Warning: 000009C3C7835A00: libcurl info message cache 1 (Closing connection 28)
+[2023.10.24-18.00.21:635][948]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.01.21:652][128]LogHttp: Warning: 000009C3C783A500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.01.21:652][128]LogHttp: Warning: 000009C3C783A500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.01.21:664][128]LogHttp: Warning: 000009C3C783A500: libcurl info message cache 1 (Closing connection 29)
+[2023.10.24-18.01.21:664][128]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.02.21:718][308]LogHttp: Warning: 000009C3C783E600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.02.21:718][308]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.02.21:718][308]LogHttp: Warning: 000009C3C783E600: libcurl info message cache 1 (Closing connection 30)
+[2023.10.24-18.02.21:718][308]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.03.21:731][488]LogHttp: Warning: 000009C3C7839B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.03.21:731][488]LogHttp: Warning: 000009C3C7839B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.03.21:731][488]LogHttp: Warning: 000009C3C7839B00: libcurl info message cache 1 (Closing connection 31)
+[2023.10.24-18.03.21:731][488]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.04.21:751][668]LogHttp: Warning: 000009C3C7835F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.04.21:751][668]LogHttp: Warning: 000009C3C7835F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.04.21:751][668]LogHttp: Warning: 000009C3C7835F00: libcurl info message cache 1 (Closing connection 32)
+[2023.10.24-18.04.21:751][668]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.05.21:769][848]LogHttp: Warning: 000009C3C7839600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.05.21:769][848]LogHttp: Warning: 000009C3C7839600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.05.21:769][848]LogHttp: Warning: 000009C3C7839600: libcurl info message cache 1 (Closing connection 33)
+[2023.10.24-18.05.21:769][848]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.06.21:781][ 28]LogHttp: Warning: 000009C3C7832800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.06.21:781][ 28]LogHttp: Warning: 000009C3C7832800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.06.21:781][ 28]LogHttp: Warning: 000009C3C7832800: libcurl info message cache 1 (Closing connection 34)
+[2023.10.24-18.06.21:781][ 28]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.07.21:797][208]LogHttp: Warning: 000009C3C7834600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.07.21:798][208]LogHttp: Warning: 000009C3C7834600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.07.21:798][208]LogHttp: Warning: 000009C3C7834600: libcurl info message cache 1 (Closing connection 35)
+[2023.10.24-18.07.21:798][208]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.08.21:816][388]LogHttp: Warning: 000009C3C783A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.08.21:816][388]LogHttp: Warning: 000009C3C783A000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.08.21:816][388]LogHttp: Warning: 000009C3C783A000: libcurl info message cache 1 (Closing connection 36)
+[2023.10.24-18.08.21:816][388]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.09.21:526][567]LogHttp: Warning: 000009C3C7830500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.09.21:526][567]LogHttp: Warning: 000009C3C7830500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.09.21:526][567]LogHttp: Warning: 000009C3C7830500: libcurl info message cache 1 (Closing connection 37)
+[2023.10.24-18.09.21:527][567]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.10.21:542][747]LogHttp: Warning: 000009C3C7830F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.10.21:542][747]LogHttp: Warning: 000009C3C7830F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.10.21:542][747]LogHttp: Warning: 000009C3C7830F00: libcurl info message cache 1 (Closing connection 38)
+[2023.10.24-18.10.21:542][747]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.11.21:556][927]LogHttp: Warning: 000009C3C783F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.11.21:556][927]LogHttp: Warning: 000009C3C783F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.11.21:556][927]LogHttp: Warning: 000009C3C783F000: libcurl info message cache 1 (Closing connection 39)
+[2023.10.24-18.11.21:556][927]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.12.21:569][107]LogHttp: Warning: 000009C3C783D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.12.21:569][107]LogHttp: Warning: 000009C3C783D200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.12.21:569][107]LogHttp: Warning: 000009C3C783D200: libcurl info message cache 1 (Closing connection 40)
+[2023.10.24-18.12.21:569][107]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.13.21:584][287]LogHttp: Warning: 000009C3C7833C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.13.21:584][287]LogHttp: Warning: 000009C3C7833C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.13.21:585][287]LogHttp: Warning: 000009C3C7833C00: libcurl info message cache 1 (Closing connection 41)
+[2023.10.24-18.13.21:585][287]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.14.21:597][467]LogHttp: Warning: 000009C3C783F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.14.21:597][467]LogHttp: Warning: 000009C3C783F500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.14.21:597][467]LogHttp: Warning: 000009C3C783F500: libcurl info message cache 1 (Closing connection 42)
+[2023.10.24-18.14.21:598][467]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.15.21:608][647]LogHttp: Warning: 000009C3C783B900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.15.21:608][647]LogHttp: Warning: 000009C3C783B900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.15.21:608][647]LogHttp: Warning: 000009C3C783B900: libcurl info message cache 1 (Closing connection 43)
+[2023.10.24-18.15.21:608][647]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.16.21:624][827]LogHttp: Warning: 000009C3C7832300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.16.21:624][827]LogHttp: Warning: 000009C3C7832300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.16.21:624][827]LogHttp: Warning: 000009C3C7832300: libcurl info message cache 1 (Closing connection 44)
+[2023.10.24-18.16.21:624][827]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.17.21:643][  7]LogHttp: Warning: 000009C3C783EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.17.21:643][  7]LogHttp: Warning: 000009C3C783EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.17.21:643][  7]LogHttp: Warning: 000009C3C783EB00: libcurl info message cache 1 (Closing connection 45)
+[2023.10.24-18.17.21:643][  7]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.18.21:657][187]LogHttp: Warning: 000009C3C783DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.18.21:657][187]LogHttp: Warning: 000009C3C783DC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.18.21:657][187]LogHttp: Warning: 000009C3C783DC00: libcurl info message cache 1 (Closing connection 46)
+[2023.10.24-18.18.21:657][187]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.19.21:680][367]LogHttp: Warning: 000009C3C7839100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.19.21:680][367]LogHttp: Warning: 000009C3C7839100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.19.21:680][367]LogHttp: Warning: 000009C3C7839100: libcurl info message cache 1 (Closing connection 47)
+[2023.10.24-18.19.21:680][367]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.20.21:699][547]LogHttp: Warning: 000009C3C7832D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.20.21:699][547]LogHttp: Warning: 000009C3C7832D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.20.21:699][547]LogHttp: Warning: 000009C3C7832D00: libcurl info message cache 1 (Closing connection 48)
+[2023.10.24-18.20.21:699][547]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.21.21:722][727]LogHttp: Warning: 000009C3C783BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.21.21:722][727]LogHttp: Warning: 000009C3C783BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.21.21:722][727]LogHttp: Warning: 000009C3C783BE00: libcurl info message cache 1 (Closing connection 49)
+[2023.10.24-18.21.21:723][727]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.22.21:737][907]LogHttp: Warning: 000009C3C7838700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.22.21:737][907]LogHttp: Warning: 000009C3C7838700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.22.21:737][907]LogHttp: Warning: 000009C3C7838700: libcurl info message cache 1 (Closing connection 50)
+[2023.10.24-18.22.21:737][907]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.23.21:756][ 87]LogHttp: Warning: 000009C3C7835000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.23.21:756][ 87]LogHttp: Warning: 000009C3C7835000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.23.21:756][ 87]LogHttp: Warning: 000009C3C7835000: libcurl info message cache 1 (Closing connection 51)
+[2023.10.24-18.23.21:756][ 87]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.24.21:764][267]LogHttp: Warning: 000009C3C7837300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.24.21:765][267]LogHttp: Warning: 000009C3C7837300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.24.21:765][267]LogHttp: Warning: 000009C3C7837300: libcurl info message cache 1 (Closing connection 52)
+[2023.10.24-18.24.21:765][267]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.25.21:776][447]LogHttp: Warning: 000009C3C7834B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.25.21:776][447]LogHttp: Warning: 000009C3C7834B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.25.21:787][447]LogHttp: Warning: 000009C3C7834B00: libcurl info message cache 1 (Closing connection 53)
+[2023.10.24-18.25.21:788][447]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.26.21:786][627]LogHttp: Warning: 000009C3C7831E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.26.21:786][627]LogHttp: Warning: 000009C3C7831E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.26.21:786][627]LogHttp: Warning: 000009C3C7831E00: libcurl info message cache 1 (Closing connection 54)
+[2023.10.24-18.26.21:786][627]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.27.21:801][807]LogHttp: Warning: 000009C3C7837D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.27.21:801][807]LogHttp: Warning: 000009C3C7837D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.27.21:801][807]LogHttp: Warning: 000009C3C7837D00: libcurl info message cache 1 (Closing connection 55)
+[2023.10.24-18.27.21:801][807]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.28.21:485][986]LogHttp: Warning: 000009C3C7833200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.28.21:485][986]LogHttp: Warning: 000009C3C7833200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.28.21:485][986]LogHttp: Warning: 000009C3C7833200: libcurl info message cache 1 (Closing connection 56)
+[2023.10.24-18.28.21:485][986]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.33.56:765][989]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.289 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 916 files in 1506 folders with total size 14 MiB.
+[2023.10.24-18.53.37:046][963]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [525 Seconds] waiting for h/w. InstanceID=1
+[2023.10.24-18.53.37:188][963]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.10.24-18.53.37:518][963]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.24-18.53.37:569][965]LogHttp: Warning: 000009C3C783CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 0 (Too old connection (556 seconds idle), disconnect it)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 1 (Connection 57 seems to be dead)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 2 (Closing connection 57)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: 000009C3C783CD00: libcurl info message cache 5 (Closing connection 58)
+[2023.10.24-18.53.37:570][965]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.24-18.53.38:896][968]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1255.49
+[2023.10.24-18.53.38:896][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.24-18.53.38:898][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.24-18.54.11:268][ 63]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.10.24-18.54.12:327][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.24-18.54.12:383][106]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.24-18.54.12:383][106]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.24-18.54.12:402][106]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 20 ms (total: 121 ms)
+[2023.10.24-18.54.12:412][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-18.54.12:421][106]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2023, 10:54:12 AM)
+[2023.10.24-18.54.12:432][106]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2023.10.24-18.54.12:464][106]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.10.24-18.54.12:662][107]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.24-18.54.12:790][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125702s)
+[2023.10.24-18.54.12:791][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.127528s)
+[2023.10.24-18.54.12:970][107]LogUObjectHash: Compacting FUObjectHashTables data took  16.71ms
+[2023.10.24-18.54.13:008][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.54.13:020][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.54.13:041][107]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.24-18.54.13:071][107]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.24-18.54.13:072][107]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.24-18.54.13:074][107]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.24-18.54.13:074][107]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.24-18.54.13:079][107]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.24-18.54.13:082][107]LogWorldPartition: Display: WorldPartition initialize took 10 ms (total: 96 ms)
+[2023.10.24-18.54.13:085][107]LogPlayLevel: PIE: World Init took: (0.083032s)
+[2023.10.24-18.54.13:087][107]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.24-18.54.13:089][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.24-18.54.13:089][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-18.54.13:096][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-18.54.13:096][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-18.54.13:096][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-18.54.13:104][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-18.54.13:285][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.24-18.54.13:303][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-18.54.13:304][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-18.54.13:305][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-18.54.13:322][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.24-18.54.13:322][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.24-18.54.13:327][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.24-18.54.13:328][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.24-18.54.13:331][107]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.24-18.54.13:332][107]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2023.10.24-18.54.13:333][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.24-18.54.13:373][107]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.24-18.54.13:463][107]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.24-14.54.13
+[2023.10.24-18.54.13:517][107]LogWorld: Bringing up level for play took: 0.131004
+[2023.10.24-18.54.13:643][107]PIE: Server logged in
+[2023.10.24-18.54.13:647][107]PIE: Play in editor total start time 1.268 seconds.
+[2023.10.24-18.55.22:691][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-18.55.22:692][746]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.24-18.55.22:706][746]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.55.22:712][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.55.22:714][746]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.24-18.55.22:737][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-18.55.22:745][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.55.22:781][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-18.55.22:783][746]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.24-18.55.22:786][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.24-18.55.22:789][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.24-18.55.22:802][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-18.55.22:826][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.24-18.55.23:226][747]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.10.24-18.55.26:241][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.24-18.55.26:254][878]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.24-18.55.26:254][878]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.10.24-18.55.26:262][878]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8 ms (total: 130 ms)
+[2023.10.24-18.55.26:262][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-18.55.26:263][878]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2023, 10:55:26 AM)
+[2023.10.24-18.55.26:263][878]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2023.10.24-18.55.26:279][878]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.10.24-18.55.26:310][879]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.24-18.55.26:320][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009897s)
+[2023.10.24-18.55.26:320][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009951s)
+[2023.10.24-18.55.26:362][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.24-18.55.26:365][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.55.26:365][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.55.26:366][879]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.24-18.55.26:367][879]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.24-18.55.26:367][879]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.24-18.55.26:367][879]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.24-18.55.26:367][879]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.24-18.55.26:369][879]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.24-18.55.26:369][879]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 98 ms)
+[2023.10.24-18.55.26:369][879]LogPlayLevel: PIE: World Init took: (0.004029s)
+[2023.10.24-18.55.26:369][879]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.24-18.55.26:369][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.24-18.55.26:369][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-18.55.26:371][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-18.55.26:371][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-18.55.26:371][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-18.55.26:374][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-18.55.26:544][879]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.10.24-18.55.26:546][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-18.55.26:546][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-18.55.26:546][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-18.55.26:548][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.24-18.55.26:548][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.24-18.55.26:551][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.24-18.55.26:551][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.24-18.55.26:552][879]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.24-18.55.26:552][879]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2023.10.24-18.55.26:552][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.24-18.55.26:555][879]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.24-18.55.26:559][879]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.24-14.55.26
+[2023.10.24-18.55.26:563][879]LogWorld: Bringing up level for play took: 0.006503
+[2023.10.24-18.55.26:568][879]PIE: Server logged in
+[2023.10.24-18.55.26:569][879]PIE: Play in editor total start time 0.315 seconds.
+[2023.10.24-19.00.11:180][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.00.11:180][181]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.24-19.00.11:180][181]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-19.00.11:181][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.00.11:181][181]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.24-19.00.11:186][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-19.00.11:193][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.00.11:219][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-19.00.11:219][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.24-19.00.11:219][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.24-19.00.11:222][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.24-19.00.11:236][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.00.11:240][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.24-19.00.11:400][182]LogPlayLevel: Display: Destroying online subsystem :Context_25
