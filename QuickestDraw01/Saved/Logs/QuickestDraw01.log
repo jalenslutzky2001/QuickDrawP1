@@ -7621,3 +7621,60 @@ Minimum required: 527.27
 [2023.10.26-21.43.16:815][588]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/Spin_Blade.Spin_Blade_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Spin_Blade_C_UAID_088FC30B5ACC64B601_1648943953
 [2023.10.26-21.43.16:815][588]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2023.10.26-21.43.16:815][588]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Spin_Blade.Spin_Blade
+[2023.10.26-21.45.10:569][985]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.26-21.45.10:845][985]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.26-21.45.11:181][986]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=188.11
+[2023.10.26-21.45.11:181][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.26-21.45.11:183][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 0 (Too old connection (10826 seconds idle), disconnect it)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 1 (Connection 75 seems to be dead)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 2 (Closing connection 75)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 4 (Closing connection 76)
+[2023.10.27-00.45.16:583][997]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.27-04.16.00:578][ 34]LogHttp: Warning: 000009C3FD27CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.27-04.16.00:578][ 34]LogHttp: Warning: 000009C3FD27CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.27-04.16.00:578][ 34]LogHttp: Warning: 000009C3FD27CD00: libcurl info message cache 1 (Closing connection 77)
+[2023.10.27-04.16.00:578][ 34]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.27-07.23.21:980][350]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10805 Seconds] waiting for h/w. InstanceID=1
+[2023.10.27-07.23.22:323][350]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 0 (Too old connection (10836 seconds idle), disconnect it)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 1 (Connection 78 seems to be dead)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 2 (Closing connection 78)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: 000009C3FD27A000: libcurl info message cache 4 (Closing connection 79)
+[2023.10.27-07.23.22:333][351]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.27-07.23.23:315][353]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=821.46
+[2023.10.27-07.23.23:315][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.27-07.23.23:317][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.27-15.10.03:371][359]LogHttp: Warning: 000009C3FD27BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.27-15.10.03:371][359]LogHttp: Warning: 000009C3FD27BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.27-15.10.03:371][359]LogHttp: Warning: 000009C3FD27BE00: libcurl info message cache 1 (Closing connection 80)
+[2023.10.27-15.10.03:371][359]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.27-15.27.10:461][440]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.349 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 922 files in 1513 folders with total size 14 MiB.
+[2023.10.27-16.27.10:208][236]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 922 files in 1513 folders with total size 14 MiB.
+[2023.10.27-17.25.01:373][642]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.27-17.25.01:460][642]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.27-17.25.02:466][645]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=769.77
+[2023.10.27-17.25.02:466][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.27-17.25.02:470][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: libcurl info message cache 0 (Too old connection (10816 seconds idle), disconnect it)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: libcurl info message cache 1 (Connection 82 seems to be dead)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: libcurl info message cache 2 (Closing connection 82)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: 000009C3FD27AF00: libcurl info message cache 4 (Closing connection 83)
+[2023.10.27-20.25.07:617][655]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.27-20.25.36:462][712]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.27-20.25.41:462][712]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.30-20.36.45:890][712]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6628
+[2023.10.30-20.36.46:260][715]LogHttp: Warning: 000009C3FD27C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.30-20.36.46:260][715]LogHttp: Warning: 000009C3FD27C300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.30-20.36.46:260][715]LogHttp: Warning: 000009C3FD27C300: libcurl info message cache 1 (Closing connection 84)
+[2023.10.30-20.36.46:260][715]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9A5B2CD-4C03-7AAD-ABDE-D9B5C83C8894%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.30-20.36.46:814][715]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=861.98
+[2023.10.30-20.36.46:814][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.30-20.36.46:821][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.30-20.38.10:007][965]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.189 and deleted 3 files with total size 9 MiB and 3 empty folders. Scanned 922 files in 1513 folders with total size 14 MiB.
