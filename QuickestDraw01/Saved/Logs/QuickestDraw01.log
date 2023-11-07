@@ -1023,3 +1023,54 @@ Minimum required: 527.27
 [2023.11.07-21.00.22:362][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
 [2023.11.07-21.00.22:362][  0]LogInit: XR: MultiViewport is Disabled
 [2023.11.07-21.00.22:362][  0]LogInit: XR: Mobile Multiview is Disabled
+[2023.11.07-21.00.22:709][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 40973824482EA82DF161DFA6EF751993 | Instance: 38F460924D173E12AC6BFE9C9B577A60 (LAPTOP-8O3MPEAU-16584).
+[2023.11.07-21.00.22:783][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.11.07-21.00.22:960][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.07-21.00.22:968][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.07-21.00.22:973][  0]LogUdpMessaging: Display: Added local interface '10.20.67.215' to multicast group '230.0.0.1:6666'
+[2023.11.07-21.00.23:260][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.07-21.00.23:641][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.07-21.00.23:686][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.11.07-21.00.23:896][  0]LogPython: Using Python 3.9.7
+[2023.11.07-21.00.26:088][  0]SourceControl: Revision control is disabled
+[2023.11.07-21.00.26:297][  0]SourceControl: Revision control is disabled
+[2023.11.07-21.00.26:311][  0]LogUProjectInfo: Found projects:
+[2023.11.07-21.00.27:470][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.07-21.00.27:517][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.07-21.00.27:517][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.07-21.00.28:018][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.07-21.00.28:166][  0]LogCollectionManager: Loaded 0 collections in 0.010158 seconds
+[2023.11.07-21.00.28:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Collections/' took 0.00s
+[2023.11.07-21.00.28:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/Developers/jslut/Collections/' took 0.00s
+[2023.11.07-21.00.28:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/Collections/' took 0.00s
+[2023.11.07-21.00.29:126][  0]LogEngine: Initializing Engine...
+[2023.11.07-21.00.29:137][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.07-21.00.29:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.07-21.00.29:322][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.07-21.00.29:322][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.07-21.00.29:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.07-21.00.29:337][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.07-21.00.29:337][  0]LogInit: Texture streaming: Enabled
+[2023.11.07-21.00.29:362][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2023.11.07-21.00.29:372][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.07-21.00.29:388][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.07-21.00.29:389][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.07-21.00.29:390][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.11.07-21.00.29:392][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.11.07-21.00.29:392][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.11.07-21.00.29:392][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.11.07-21.00.29:392][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.11.07-21.00.29:393][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.07-21.00.29:393][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.07-21.00.29:393][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.07-21.00.29:393][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.07-21.00.29:394][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.07-21.00.29:394][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.07-21.00.29:394][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.07-21.00.29:406][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
