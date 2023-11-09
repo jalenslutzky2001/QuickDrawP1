@@ -8205,3 +8205,160 @@ Minimum required: 527.27
 [2023.11.09-22.16.49:005][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2023.11.09-22.21.07:660][960]BlueprintLog: New page: Compile ParkourMovement
 [2023.11.09-22.21.07:725][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.09-22.21.32:647][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.09-22.21.32:652][ 96]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.11.09-22.21.32:653][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.09-22.21.32:699][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.09-22.21.32:699][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.09-22.21.32:742][ 96]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2023.11.09-22.21.32:743][ 96]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter_Auto69D16A2F449FE424229C16CA7CE82CED8.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2023.11.09-22.21.32:745][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/ParkourMovement] ([2] browsable assets)...
+[2023.11.09-22.21.32:745][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ParkourMovement]
+[2023.11.09-22.21.32:768][ 96]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto6
+[2023.11.09-22.21.32:769][ 96]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ParkourMovement_Auto659D79C6744CB720CA1E8D59E8192FE03.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto6.uasset'
+[2023.11.09-22.21.32:770][ 96]LogFileHelpers: Auto-saving content packages took 0.117
+[2023.11.09-22.23.20:159][872]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.23.20:204][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.09-22.24.05:816][925]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.24.05:862][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.09-22.25.15:838][734]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.25.15:892][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.09-22.26.27:631][122]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.26.27:708][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.09-22.26.55:210][858]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.26.55:259][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.09-22.28.08:880][151]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.28.08:929][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-22.30.29:431][335]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.30.29:483][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.09-22.32.09:468][645]LogUObjectHash: Compacting FUObjectHashTables data took  11.84ms
+[2023.11.09-22.32.09:472][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2023.11.09-22.32.09:472][645]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.09-22.32.09:519][645]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.09-22.32.09:519][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.09-22.32.09:560][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2023.11.09-22.32.09:561][645]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter_Auto7A243662D40EC4C775918CE965136B298.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2023.11.09-22.32.09:562][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/ParkourMovement] ([2] browsable assets)...
+[2023.11.09-22.32.09:562][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ParkourMovement]
+[2023.11.09-22.32.09:590][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto7
+[2023.11.09-22.32.09:590][645]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ParkourMovement_Auto70A485A104AC0FE7FDE5C82BC16838EF2.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto7.uasset'
+[2023.11.09-22.32.09:591][645]LogFileHelpers: Auto-saving content packages took 0.119
+[2023.11.09-22.32.56:812][868]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.32.56:863][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.09-22.42.09:815][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.09-22.42.09:818][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2023.11.09-22.42.09:818][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.09-22.42.09:865][215]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.09-22.42.09:865][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.09-22.42.09:906][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2023.11.09-22.42.09:907][215]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter_Auto88E2238574565A97C1BC477B98A8BCB0D.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2023.11.09-22.42.09:909][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/ParkourMovement] ([2] browsable assets)...
+[2023.11.09-22.42.09:909][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ParkourMovement]
+[2023.11.09-22.42.09:938][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto8
+[2023.11.09-22.42.09:938][215]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ParkourMovement_Auto89DAFE6984F852A82611641882B17CC46.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto8.uasset'
+[2023.11.09-22.42.09:939][215]LogFileHelpers: Auto-saving content packages took 0.121
+[2023.11.09-22.43.19:473][977]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.43.19:522][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-22.50.32:147][872]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.50.32:497][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.09-22.52.10:462][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.09-22.52.10:465][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2023.11.09-22.52.10:466][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.09-22.52.10:512][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.09-22.52.10:512][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.09-22.52.10:551][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2023.11.09-22.52.10:552][535]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter_Auto9F462A5074A782D7C095AD3A6E4F14C16.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2023.11.09-22.52.10:553][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/ParkourMovement] ([2] browsable assets)...
+[2023.11.09-22.52.10:554][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ParkourMovement]
+[2023.11.09-22.52.10:580][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto9
+[2023.11.09-22.52.10:581][535]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ParkourMovement_Auto9EED62F7848ABDA4FF604EF97B4BDE6F9.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ParkourMovement_Auto9.uasset'
+[2023.11.09-22.52.10:582][535]LogFileHelpers: Auto-saving content packages took 0.117
+[2023.11.09-22.52.56:871][233]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.52.56:918][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.09-22.55.01:593][769]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.55.01:649][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-22.55.30:750][306]BlueprintLog: New page: Compile ParkourMovement
+[2023.11.09-22.55.30:800][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.09-22.55.34:263][499]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-22.55.34:291][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-22.55.35:851][545]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.11.09-22.55.35:872][545]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-22.55.35:872][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-22.55.36:613][565]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-22.55.36:628][565]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-22.55.36:629][565]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-22.55.36:643][565]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 13 ms (total: 580 ms)
+[2023.11.09-22.55.36:648][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-22.55.36:654][565]PIE: New page: PIE session: FirstPersonMap (Nov 9, 2023, 12:55:36 PM)
+[2023.11.09-22.55.36:695][565]LogPlayLevel: Display: Creating online subsystem for client :Context_145
+[2023.11.09-22.55.36:705][565]LogOnline: OSS: Created online subsystem instance for: :Context_145
+[2023.11.09-22.55.36:751][566]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-22.55.36:797][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045180s)
+[2023.11.09-22.55.36:797][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.045636s)
+[2023.11.09-22.55.36:829][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.09-22.55.36:841][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-22.55.36:851][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-22.55.36:859][566]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-22.55.36:872][566]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-22.55.36:872][566]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-22.55.36:873][566]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-22.55.36:873][566]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-22.55.36:874][566]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-22.55.36:878][566]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 346 ms)
+[2023.11.09-22.55.36:880][566]LogPlayLevel: PIE: World Init took: (0.043919s)
+[2023.11.09-22.55.36:882][566]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-22.55.36:884][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-22.55.36:884][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-22.55.36:888][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-22.55.36:888][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-22.55.36:889][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-22.55.36:892][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-22.55.36:997][566]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.11.09-22.55.37:002][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-22.55.37:002][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-22.55.37:002][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-22.55.37:006][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.11.09-22.55.37:006][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.11.09-22.55.37:008][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.11.09-22.55.37:008][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.11.09-22.55.37:009][566]LogInit: FAudioDevice initialized with ID 88.
+[2023.11.09-22.55.37:009][566]LogAudio: Display: Audio Device (ID: 88) registered with world 'FirstPersonMap'.
+[2023.11.09-22.55.37:010][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.09-22.55.37:029][566]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-22.55.37:040][566]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.11.09-17.55.37
+[2023.11.09-22.55.37:062][566]LogWorld: Bringing up level for play took: 0.031584
+[2023.11.09-22.55.37:091][566]PIE: Server logged in
+[2023.11.09-22.55.37:092][566]PIE: Play in editor total start time 0.465 seconds.
+[2023.11.09-22.56.01:434][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-22.56.01:434][ 21]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-22.56.01:437][ 21]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-22.56.01:438][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-22.56.01:438][ 21]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-22.56.01:451][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-22.56.01:455][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-22.56.01:478][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-22.56.01:479][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.09-22.56.01:482][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.09-22.56.01:485][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.09-22.56.01:494][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-22.56.01:503][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.09-22.56.01:548][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2023.11.09-22.56.06:241][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.09-22.56.06:258][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-22.56.06:335][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.09-22.56.06:359][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.09-22.56.06:375][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.09-22.56.06:433][298]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.09-22.56.06:435][298]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter5ED5CD564EE08666A8B754ABADA9C44B.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.09-22.56.06:468][298]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/ParkourMovement
+[2023.11.09-22.56.06:469][298]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ParkourMovement68C79D5A43276354A3D259A32A762BAE.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Content/FirstPerson/Blueprints/ParkourMovement.uasset'
+[2023.11.09-22.56.06:488][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 942 ms)
+[2023.11.09-22.56.06:526][298]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-22.56.06:526][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.09-22.56.06:527][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/ParkourMovement.ParkourMovement
