@@ -3230,3 +3230,153 @@ Minimum required: 527.27
 [2023.11.07-22.29.21:134][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 371 ms)
 [2023.11.07-22.29.21:143][746]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2023.11.07-22.29.21:143][746]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.07-22.48.29:521][772]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.07-22.48.29:690][773]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.07-22.48.30:681][775]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=744.23
+[2023.11.07-22.48.30:682][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.07-22.48.30:685][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.08-01.48.32:822][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.08-01.48.33:309][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 0 (Too old connection (10803 seconds idle), disconnect it)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 2 (Closing connection)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 4 (Send failure: Connection was reset)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: 000004DE20422800: libcurl info message cache 7 (Closing connection)
+[2023.11.08-01.48.33:647][785]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.08-01.48.34:631][787]Could not fetch the local adapter addresses
+[2023.11.08-01.48.34:631][787]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.08-01.48.34:651][788]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.08-23.03.40:201][790]Could not fetch the local adapter addresses
+[2023.11.08-23.03.40:201][790]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.08-23.03.40:233][791]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.08-23.03.40:233][791]LogHttp: Warning: 000004DE20428C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.08-23.03.40:233][791]LogHttp: Warning: 000004DE20428C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.08-23.03.40:233][791]LogHttp: Warning: 000004DE20428C00: libcurl info message cache 1 (Closing connection)
+[2023.11.08-23.03.40:233][791]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.08-23.03.40:847][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.08-23.03.41:655][793]Could not fetch the local adapter addresses
+[2023.11.08-23.03.41:656][793]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.08-23.03.41:748][794]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.08-23.03.43:594][799]Could not fetch the local adapter addresses
+[2023.11.08-23.03.43:594][799]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.08-23.03.43:811][800]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.08-23.03.46:016][805]LogUdpMessaging: Display: Added local interface '192.168.0.22' to multicast group '230.0.0.1:6666'
+[2023.11.08-23.16.44:806][ 72]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [26 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.16.45:202][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.08-23.16.46:199][ 72]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 0 (Found bundle for host: 0x4ddc5960f30 [serially])
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 7 (Closing connection)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 9 (Send failure: Connection was reset)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.11.08-23.16.46:212][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 12 (  Trying 18.233.69.108:443...)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (18.233.69.108) port 443)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 15 (SSL reusing session ID)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 22 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 23 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 24 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 25 (old SSL session ID is stale, removing)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 26 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 28 (Server certificate:)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 29 ( subject: CN=*.ol.epicgames.com)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 30 ( start date: Feb 28 00:00:00 2023 GMT)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 31 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 35 (using HTTP/1.1)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 37 (Closing connection)
+[2023.11.08-23.16.46:213][ 73]LogHttp: Warning: 000004DE20423200: libcurl info message cache 38 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.11.08-23.16.46:215][ 73]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.08-23.16.48:224][ 79]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1847.50
+[2023.11.08-23.16.48:224][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.08-23.16.48:230][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.08-23.17.41:315][239]LogDerivedDataCache: C:/Users/jslut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.632 and deleted 1 files with total size 0 MiB and 1 empty folders. Scanned 1338 files in 2006 folders with total size 15 MiB.
+[2023.11.08-23.34.05:866][444]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [919 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.34.06:397][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.08-23.34.06:660][444]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.08-23.34.11:661][457]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.34.16:665][457]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.34.19:789][463]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=12796.41
+[2023.11.08-23.34.19:791][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.08-23.34.19:990][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.08-23.34.20:021][464]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.08-23.34.25:019][475]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.34.30:020][489]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.08-23.34.30:247][489]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=9915.20
+[2023.11.08-23.34.30:248][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.08-23.34.30:272][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.08-23.34.30:554][490]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.08-23.34.33:236][498]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2491.35
+[2023.11.08-23.34.33:236][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.08-23.34.33:259][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.09-02.41.10:959][690]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.11:796][690]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10804 Seconds] waiting for h/w. InstanceID=1
+[2023.11.09-02.41.12:220][690]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.09-02.41.12:233][690]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.09-02.41.12:524][691]Could not fetch the local adapter addresses
+[2023.11.09-02.41.12:524][691]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-02.41.12:558][692]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.12:558][692]LogHttp: Warning: 000004DE20423700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.09-02.41.12:558][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 0 (Too old connection (10842 seconds idle), disconnect it)
+[2023.11.09-02.41.12:558][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 1 (Connection 8 seems to be dead)
+[2023.11.09-02.41.12:558][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 2 (Closing connection)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 4 (Send failure: Connection was reset)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: 000004DE20423700: libcurl info message cache 7 (Closing connection)
+[2023.11.09-02.41.12:559][692]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.09-02.41.12:892][692]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=493.88
+[2023.11.09-02.41.12:892][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.09-02.41.12:895][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.09-02.41.15:838][697]Could not fetch the local adapter addresses
+[2023.11.09-02.41.15:839][697]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-02.41.16:651][698]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.18:717][701]Could not fetch the local adapter addresses
+[2023.11.09-02.41.18:721][701]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-02.41.19:216][702]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.21:236][705]Could not fetch the local adapter addresses
+[2023.11.09-02.41.21:237][705]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-02.41.22:080][706]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.23:928][709]Could not fetch the local adapter addresses
+[2023.11.09-02.41.23:929][709]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-02.41.24:736][710]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-02.41.27:046][713]LogUdpMessaging: Display: Added local interface '169.254.222.116' to multicast group '230.0.0.1:6666'
+[2023.11.09-16.14.52:037][718]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-16.14.52:502][718]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [48809 Seconds] waiting for h/w. InstanceID=1
+[2023.11.09-16.14.52:658][718]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.11.09-16.14.53:062][718]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.09-16.14.53:382][719]Could not fetch the local adapter addresses
+[2023.11.09-16.14.53:383][719]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.11.09-16.14.53:437][720]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.09-16.14.53:437][720]LogHttp: Warning: 000004DE20427300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.09-16.14.53:437][720]LogHttp: Warning: 000004DE20427300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.09-16.14.53:437][720]LogHttp: Warning: 000004DE20427300: libcurl info message cache 1 (Closing connection)
+[2023.11.09-16.14.53:437][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.09-16.14.54:771][723]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1675.64
+[2023.11.09-16.14.54:771][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.09-16.14.54:773][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.09-16.14.55:027][724]Could not fetch the local adapter addresses
+[2023.11.09-16.14.55:027][724]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
