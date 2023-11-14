@@ -13311,3 +13311,30 @@ Make sure 'BP_Cubes_C' has been compiled for  Get FirstPersonCamera
 [2023.11.14-22.27.22:467][551]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Cubes_Auto3
 [2023.11.14-22.27.22:467][551]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_Cubes_Auto34B80EBF54FA9BFDA926494AB1996F5E6.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Cubes_Auto3.uasset'
 [2023.11.14-22.27.22:467][551]LogFileHelpers: Auto-saving content packages took 0.093
+[2023.11.14-22.37.36:435][608]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character
+[2023.11.14-22.37.36:435][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-22.37.36:435][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-22.38.27:722][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.14-22.38.27:727][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2023.11.14-22.38.27:727][908]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/AI/Enemy_Character] ([2] browsable assets)...
+[2023.11.14-22.38.27:776][908]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character]
+[2023.11.14-22.38.27:776][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/Enemy_Character]
+[2023.11.14-22.38.27:810][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto4
+[2023.11.14-22.38.27:822][908]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Enemy_Character_Auto4CB6E11674345DD8D7EE88F8802F7D821.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto4.uasset'
+[2023.11.14-22.38.27:823][908]LogFileHelpers: Auto-saving content packages took 0.096
+[2023.11.14-22.44.38:231][527]BlueprintLog: New page: Compile Enemy_Character
+[2023.11.14-22.44.38:311][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.14-22.48.28:323][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.14-22.48.28:327][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2023.11.14-22.48.28:327][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2023.11.14-22.48.28:327][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2023.11.14-22.48.28:335][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto5
+[2023.11.14-22.48.28:336][502]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonProjectile_Auto56B49535741EF404EC887B8829F82C7A4.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto5.uasset'
+[2023.11.14-22.48.28:338][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/AI/Enemy_Character] ([2] browsable assets)...
+[2023.11.14-22.48.28:385][502]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character]
+[2023.11.14-22.48.28:385][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/AI/Enemy_Character]
+[2023.11.14-22.48.28:406][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto5
+[2023.11.14-22.48.28:407][502]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Enemy_Character_Auto5C0CC0B3A4CF6D4E436A7268F66D59877.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/AI/Enemy_Character_Auto5.uasset'
+[2023.11.14-22.48.28:409][502]LogFileHelpers: Auto-saving content packages took 0.082
+[2023.11.14-22.51.12:141][543]BlueprintLog: New page: Compile Enemy_Character
+[2023.11.14-22.51.12:235][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
