@@ -14923,3 +14923,38 @@ Make sure 'BP_Cubes_C' has been compiled for  Get FirstPersonCamera
 [2023.11.17-02.58.28:482][185]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=721.78
 [2023.11.17-02.58.28:483][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.11.17-02.58.28:498][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.17-06.08.21:819][957]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10805 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.22:266][957]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 0 (Too old connection (10836 seconds idle), disconnect it)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 1 (Connection 113 seems to be dead)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 2 (Closing connection)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 4 (Send failure: Connection was reset)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: 000004DEE90FE600: libcurl info message cache 7 (Closing connection)
+[2023.11.17-06.08.22:608][959]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.17-06.08.27:266][967]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.28:614][969]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=5497.72
+[2023.11.17-06.08.28:615][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.17-06.08.28:800][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.17-06.08.29:633][970]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.17-06.08.34:632][977]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.39:632][988]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.44:632][988]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.49:632][988]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.17-06.08.50:486][988]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-9754ms], ThreadID=9936
+[2023.11.28-18.58.56:500][988]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-996609152ms], ThreadID=9936
+[2023.11.28-18.59.00:647][988]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [996621 Seconds] waiting for h/w. InstanceID=1
+[2023.11.28-18.59.01:463][988]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=996639040.00
+[2023.11.28-18.59.01:464][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.28-18.59.01:467][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.28-18.59.01:513][989]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9936
+[2023.11.28-18.59.02:283][991]LogHttp: Warning: 000004DEE90FE100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.28-18.59.02:283][991]LogHttp: Warning: 000004DEE90FE100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.28-18.59.02:283][991]LogHttp: Warning: 000004DEE90FE100: libcurl info message cache 1 (Closing connection)
+[2023.11.28-18.59.02:284][991]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568CB8C0-4B59-26F8-5B13-509877FDCF4D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ac0cd0b048405d5205bcd1b0c8d68f5c%7C2ad60860fde040e7a8c5a138d6861430%7Ce3e721ae-c0a8-4428-b2dd-cbd15d8200d9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.28-18.59.03:621][995]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{70a8a9d7-636f-449c-99a5-fdc750b87c36}, Name=Speakers (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1866.58
+[2023.11.28-18.59.03:621][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.28-18.59.03:627][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
