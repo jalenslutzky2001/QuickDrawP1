@@ -22086,20 +22086,3 @@ Make sure 'BP_Cubes_C' has been compiled for  Get FirstPersonCamera
 [2023.11.28-21.16.51:891][905]LogD3D11RHI: Error: Result failed with error DXGI_ERROR_DEVICE_REMOVED 00000000
  at D:\build\++UE5\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:438
 [2023.11.28-21.16.51:891][905]LogD3D11RHI: [Aftermath] GDynamicRHI=000004DDD75C8000, GDX11NVAfterMathEnabled=0, Result=0x00000000, bDeviceActive=0
-[2023.11.28-21.16.55:568][906]LogRHI: Error: Breadcrumbs 'RenderingThread'
-
-[2023.11.28-21.16.55:568][906]LogWindows: FPlatformMisc::RequestExit(0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.11.28-21.16.55:568][906]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.11.28-21.16.55:568][906]LogCore: Engine exit requested (reason: Win RequestExit)
-[2023.11.28-21.16.55:568][906]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 155] 
-Unreal Engine is exiting due to D3D device being lost. (Error: 0x0 - 'S_OK')
-
-
-
-[2023.11.28-21.16.55:568][906]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2023.11.28-21.16.55:575][906]LogWindows: FPlatformMisc::RequestExit(0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.11.28-21.16.55:575][906]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2023.11.28-21.16.55:575][906]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2023.11.28-21.16.55:575][906]LogWindows: FPlatformMisc::RequestExit(1, TerminateOnDeviceRemoved)
-[2023.11.28-21.16.55:575][906]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, TerminateOnDeviceRemoved)
-[2023.11.28-21.16.55:575][906]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
