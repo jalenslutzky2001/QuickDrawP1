@@ -2926,3 +2926,549 @@ Minimum required: 527.27
 [2023.11.28-21.28.44:357][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.11.28-21.28.44:359][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
 [2023.11.28-21.28.44:408][291]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.11.28-21.29.37:952][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.28-21.29.37:967][558]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.009405 seconds
+[2023.11.28-21.29.37:974][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/0G/U1O3C1PJSBUE2KARDJ6GL5_Auto1
+[2023.11.28-21.29.37:974][558]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/U1O3C1PJSBUE2KARDJ6GL5_Auto17D8035974A816A08292A4895CD39DE4E.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/0G/U1O3C1PJSBUE2KARDJ6GL5_Auto1.uasset'
+[2023.11.28-21.29.37:981][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LU/4SOTKTJ5N0L7UFBSKYD6JS_Auto1
+[2023.11.28-21.29.37:981][558]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/4SOTKTJ5N0L7UFBSKYD6JS_Auto16A9770C44DE986DDB92F358310209B4C.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LU/4SOTKTJ5N0L7UFBSKYD6JS_Auto1.uasset'
+[2023.11.28-21.29.37:984][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2023.11.28-21.29.37:984][558]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2023.11.28-21.29.37:984][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.28-21.29.38:037][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.28-21.29.38:037][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.28-21.29.38:083][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2023.11.28-21.29.38:084][558]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/BP_FirstPersonCharacter_Auto12821BFA640E114A1AF0412A8509DF70F.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2023.11.28-21.29.38:085][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/ShootingPad] ([2] browsable assets)...
+[2023.11.28-21.29.38:108][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/ShootingPad.ShootingPad]
+[2023.11.28-21.29.38:108][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ShootingPad]
+[2023.11.28-21.29.38:116][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ShootingPad_Auto1
+[2023.11.28-21.29.38:117][558]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ShootingPad_Auto1987A9ABD491BDC7824CAEAB3841C850A.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ShootingPad_Auto1.uasset'
+[2023.11.28-21.29.38:117][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/StepPad] ([2] browsable assets)...
+[2023.11.28-21.29.38:142][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/StepPad.StepPad]
+[2023.11.28-21.29.38:143][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/StepPad]
+[2023.11.28-21.29.38:152][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/StepPad_Auto1
+[2023.11.28-21.29.38:152][558]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/StepPad_Auto1702713A646E45F94922F39AD791DBE84.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/StepPad_Auto1.uasset'
+[2023.11.28-21.29.38:153][558]LogFileHelpers: Auto-saving content packages took 0.169
+[2023.11.28-21.33.34:379][406]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/ShootingPad.ShootingPad
+[2023.11.28-21.33.34:379][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.33.34:379][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.33.34:526][406]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:149][343]BlueprintLog: New page: Compile ShootingPad
+[2023.11.28-21.34.05:158][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:158][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:158][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:159][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:159][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:159][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:183][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.28-21.34.05:187][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:187][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:187][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:187][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:188][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:188][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:188][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:189][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:196][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:196][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:196][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:196][343]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.05:197][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:197][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:197][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.05:197][343]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.06:167][385]LogSlate: Window 'ShootingPad' being destroyed
+[2023.11.28-21.34.06:192][385]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.34.06:192][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.34.06:994][426]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-21.34.07:002][426]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.28-21.34.07:002][426]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.28-21.34.07:007][426]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 19 ms)
+[2023.11.28-21.34.07:007][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-21.34.07:007][426]PIE: New page: PIE session: FirstPersonMap (Nov 28, 2023, 11:34:07 AM)
+[2023.11.28-21.34.07:007][426]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2023.11.28-21.34.07:009][426]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.28-21.34.07:024][427]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.34.07:029][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004858s)
+[2023.11.28-21.34.07:029][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004901s)
+[2023.11.28-21.34.07:044][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.28-21.34.07:048][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.34.07:048][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.34.07:049][427]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-21.34.07:049][427]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.28-21.34.07:049][427]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-21.34.07:050][427]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.28-21.34.07:050][427]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.28-21.34.07:051][427]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.28-21.34.07:051][427]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 70 ms)
+[2023.11.28-21.34.07:051][427]LogPlayLevel: PIE: World Init took: (0.002617s)
+[2023.11.28-21.34.07:051][427]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.28-21.34.07:051][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-21.34.07:051][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-21.34.07:051][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-21.34.07:052][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-21.34.07:052][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-21.34.07:054][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-21.34.07:173][427]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.11.28-21.34.07:174][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-21.34.07:174][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-21.34.07:174][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-21.34.07:175][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.28-21.34.07:175][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.28-21.34.07:176][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.28-21.34.07:176][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.28-21.34.07:176][427]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.28-21.34.07:176][427]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2023.11.28-21.34.07:176][427]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.28-21.34.07:178][427]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-21.34.07:180][427]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.34.07:180][427]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-16.34.07
+[2023.11.28-21.34.07:182][427]LogWorld: Bringing up level for play took: 0.003521
+[2023.11.28-21.34.07:185][427]PIE: Server logged in
+[2023.11.28-21.34.07:185][427]PIE: Play in editor total start time 0.183 seconds.
+[2023.11.28-21.34.20:812][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.34.20:812][452]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.34.20:814][452]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.34.20:814][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.34.20:814][452]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.28-21.34.20:817][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-21.34.20:821][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.34.20:837][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-21.34.20:837][452]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.28-21.34.20:837][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.28-21.34.20:839][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.28-21.34.20:845][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.34.20:849][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.28-21.34.20:904][453]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.28-21.34.46:528][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/ShootingPad.ShootingPad
+[2023.11.28-21.34.46:528][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.34.46:528][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.34.46:676][887]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.56:667][322]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.56:668][322]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.56:668][322]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.56:668][322]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.34.56:668][322]LogViewport: Scene viewport resized to 947x691, mode Windowed.
+[2023.11.28-21.35.15:831][119]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:831][119]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:831][119]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:855][120]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:855][120]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:855][120]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:879][121]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:879][121]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:880][121]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:904][122]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:904][122]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:905][122]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:929][123]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:929][123]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:929][123]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:952][124]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:953][124]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:953][124]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:980][125]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:980][125]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.15:980][125]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:003][126]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:003][126]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:003][126]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:029][127]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:029][127]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:029][127]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:054][128]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:054][128]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:054][128]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:078][129]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:078][129]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:078][129]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:103][130]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:103][130]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:103][130]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:127][131]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:128][131]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:128][131]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:202][134]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:202][134]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.16:202][134]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:661][192]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:662][192]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:662][192]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:686][193]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:686][193]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:686][193]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:710][194]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:710][194]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:710][194]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:735][195]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:735][195]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:736][195]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:760][196]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:760][196]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:760][196]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:786][197]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:786][197]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:786][197]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:809][198]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:810][198]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:810][198]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:837][199]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:837][199]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:837][199]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:861][200]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:862][200]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:862][200]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:886][201]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:886][201]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.17:886][201]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.20:340][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.35.20:384][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.35.22:538][386]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:539][386]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:539][386]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:561][387]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:561][387]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:561][387]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:584][388]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:585][388]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:585][388]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:609][389]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:609][389]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:609][389]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:633][390]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:633][390]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:633][390]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:659][391]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:660][391]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:660][391]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:683][392]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:683][392]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:683][392]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:707][393]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:708][393]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:708][393]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:826][398]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:827][398]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:827][398]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:850][399]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:850][399]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:850][399]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:973][404]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:973][404]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.22:973][404]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.23:023][406]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.23:023][406]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.23:023][406]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:432][463]BlueprintLog: New page: Compile ShootingPad
+[2023.11.28-21.35.24:441][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:441][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:441][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:442][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:442][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:442][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:472][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.28-21.35.24:477][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:477][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:477][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:477][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:478][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:478][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:478][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:479][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:486][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:486][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:486][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:486][463]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.35.24:487][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:487][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:487][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:487][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:525][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:525][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:526][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.24:526][463]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:358][538]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:358][538]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:358][538]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:382][539]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:382][539]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:382][539]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:406][540]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:406][540]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:406][540]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:430][541]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:430][541]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:430][541]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:454][542]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:455][542]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:455][542]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:480][543]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:480][543]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:480][543]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:504][544]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:504][544]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:504][544]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:528][545]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:528][545]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:528][545]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:552][546]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:552][546]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:552][546]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:577][547]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:578][547]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:578][547]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:602][548]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:602][548]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.26:602][548]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.35.47:567][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/AI/Enemy_Character.Enemy_Character
+[2023.11.28-21.35.47:567][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.35.47:567][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.36.01:466][735]LogViewport: Scene viewport resized to 947x691, mode Windowed.
+[2023.11.28-21.36.40:244][249]BlueprintLog: New page: Compile ShootingPad
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:253][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:281][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.28-21.36.40:285][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:286][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:288][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:289][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:290][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:330][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:330][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:330][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.36.40:331][249]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.ShootingPad_C_0.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.11.28-21.37.06:616][305]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.37.06:616][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.37.07:695][347]LogSlate: Window 'ShootingPad' being destroyed
+[2023.11.28-21.37.07:725][347]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.28-21.37.07:725][347]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.37.07:725][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.37.08:562][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-21.37.08:570][385]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.28-21.37.08:570][385]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.28-21.37.08:575][385]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 23 ms)
+[2023.11.28-21.37.08:575][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-21.37.08:575][385]PIE: New page: PIE session: FirstPersonMap (Nov 28, 2023, 11:37:08 AM)
+[2023.11.28-21.37.08:575][385]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2023.11.28-21.37.08:578][385]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.28-21.37.08:593][386]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.37.08:598][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004836s)
+[2023.11.28-21.37.08:598][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004874s)
+[2023.11.28-21.37.08:616][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.28-21.37.08:623][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.37.08:623][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.37.08:624][386]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-21.37.08:624][386]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.28-21.37.08:624][386]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-21.37.08:624][386]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.28-21.37.08:624][386]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.28-21.37.08:626][386]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.28-21.37.08:626][386]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 72 ms)
+[2023.11.28-21.37.08:626][386]LogPlayLevel: PIE: World Init took: (0.002906s)
+[2023.11.28-21.37.08:626][386]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.28-21.37.08:626][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-21.37.08:626][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-21.37.08:626][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-21.37.08:626][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-21.37.08:626][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-21.37.08:628][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-21.37.08:754][386]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.11.28-21.37.08:755][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-21.37.08:755][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-21.37.08:755][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-21.37.08:755][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.28-21.37.08:755][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.11.28-21.37.08:757][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.28-21.37.08:757][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.28-21.37.08:757][386]LogInit: FAudioDevice initialized with ID 6.
+[2023.11.28-21.37.08:757][386]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2023.11.28-21.37.08:757][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.28-21.37.08:759][386]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-21.37.08:760][386]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.37.08:761][386]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-16.37.08
+[2023.11.28-21.37.08:763][386]LogWorld: Bringing up level for play took: 0.003629
+[2023.11.28-21.37.08:766][386]PIE: Server logged in
+[2023.11.28-21.37.08:766][386]PIE: Play in editor total start time 0.197 seconds.
+[2023.11.28-21.37.46:583][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.37.46:583][251]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.37.46:584][251]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.37.46:584][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.37.46:584][251]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.28-21.37.46:587][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-21.37.46:592][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.37.46:608][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-21.37.46:609][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.28-21.37.46:609][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.28-21.37.46:612][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.28-21.37.46:620][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.37.46:622][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.28-21.37.46:670][252]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.28-21.39.54:756][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-21.39.54:764][273]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.28-21.39.54:764][273]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.28-21.39.54:769][273]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 28 ms)
+[2023.11.28-21.39.54:769][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-21.39.54:769][273]PIE: New page: PIE session: FirstPersonMap (Nov 28, 2023, 11:39:54 AM)
+[2023.11.28-21.39.54:769][273]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2023.11.28-21.39.54:771][273]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.28-21.39.54:787][274]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.39.54:792][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005229s)
+[2023.11.28-21.39.54:792][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005269s)
+[2023.11.28-21.39.54:812][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.11.28-21.39.54:814][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.39.54:814][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.39.54:815][274]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-21.39.54:816][274]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.28-21.39.54:816][274]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-21.39.54:816][274]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.28-21.39.54:816][274]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.28-21.39.54:817][274]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.28-21.39.54:817][274]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 73 ms)
+[2023.11.28-21.39.54:817][274]LogPlayLevel: PIE: World Init took: (0.002968s)
+[2023.11.28-21.39.54:817][274]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.28-21.39.54:817][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-21.39.54:817][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-21.39.54:818][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-21.39.54:818][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-21.39.54:818][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-21.39.54:819][274]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-21.39.54:947][274]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.11.28-21.39.54:948][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-21.39.54:948][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-21.39.54:948][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-21.39.54:949][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.28-21.39.54:949][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.28-21.39.54:950][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.28-21.39.54:950][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.28-21.39.54:950][274]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.28-21.39.54:950][274]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2023.11.28-21.39.54:950][274]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.28-21.39.54:952][274]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-21.39.54:954][274]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.39.54:954][274]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-16.39.54
+[2023.11.28-21.39.54:956][274]LogWorld: Bringing up level for play took: 0.003368
+[2023.11.28-21.39.54:958][274]PIE: Server logged in
+[2023.11.28-21.39.54:959][274]PIE: Play in editor total start time 0.195 seconds.
+[2023.11.28-21.40.10:183][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.40.10:183][422]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.40.10:183][422]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.40.10:183][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.40.10:183][422]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.28-21.40.10:186][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-21.40.10:190][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.40.10:207][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.40.10:207][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.28-21.40.10:207][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.28-21.40.10:209][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.28-21.40.10:219][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.28-21.40.10:267][423]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.28-21.40.12:011][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-21.40.12:019][538]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.28-21.40.12:019][538]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.28-21.40.12:024][538]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 32 ms)
+[2023.11.28-21.40.12:024][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-21.40.12:024][538]PIE: New page: PIE session: FirstPersonMap (Nov 28, 2023, 11:40:12 AM)
+[2023.11.28-21.40.12:024][538]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2023.11.28-21.40.12:026][538]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.28-21.40.12:042][539]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.40.12:047][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004987s)
+[2023.11.28-21.40.12:047][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005027s)
+[2023.11.28-21.40.12:067][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.28-21.40.12:068][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-21.40.12:068][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-21.40.12:068][539]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-21.40.12:069][539]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.28-21.40.12:069][539]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-21.40.12:069][539]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.28-21.40.12:069][539]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.28-21.40.12:071][539]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.28-21.40.12:071][539]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 75 ms)
+[2023.11.28-21.40.12:071][539]LogPlayLevel: PIE: World Init took: (0.002812s)
+[2023.11.28-21.40.12:071][539]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.28-21.40.12:071][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-21.40.12:071][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-21.40.12:072][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-21.40.12:072][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-21.40.12:072][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-21.40.12:073][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-21.40.12:207][539]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.11.28-21.40.12:207][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-21.40.12:207][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-21.40.12:207][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-21.40.12:207][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.28-21.40.12:207][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.28-21.40.12:210][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.28-21.40.12:210][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.28-21.40.12:210][539]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.28-21.40.12:210][539]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2023.11.28-21.40.12:210][539]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.28-21.40.12:211][539]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-21.40.12:213][539]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.ShootingPad_C_UAID_088FC30B5ACCC0C001_1613844703.ShootPad has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=2.250 Z=0.000
+[2023.11.28-21.40.12:213][539]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-16.40.12
+[2023.11.28-21.40.12:215][539]LogWorld: Bringing up level for play took: 0.003408
+[2023.11.28-21.40.12:218][539]PIE: Server logged in
+[2023.11.28-21.40.12:218][539]PIE: Play in editor total start time 0.199 seconds.
+[2023.11.28-21.40.34:673][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.40.34:673][220]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-21.40.34:673][220]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-21.40.34:674][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.40.34:674][220]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.28-21.40.34:676][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-21.40.34:680][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-21.40.34:696][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-21.40.34:696][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.28-21.40.34:696][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.28-21.40.34:698][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.28-21.40.34:709][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.28-21.40.34:755][221]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.28-21.41.21:282][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.28-21.41.21:289][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LU/4SOTKTJ5N0L7UFBSKYD6JS_Auto2
+[2023.11.28-21.41.21:289][352]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/4SOTKTJ5N0L7UFBSKYD6JS_Auto2BA79C4CA450ECF8409FA36B8CD8BDD63.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LU/4SOTKTJ5N0L7UFBSKYD6JS_Auto2.uasset'
+[2023.11.28-21.41.21:293][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2023.11.28-21.41.21:293][352]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.11.28-21.41.21:293][352]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/ShootingPad] ([2] browsable assets)...
+[2023.11.28-21.41.21:345][352]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/ShootingPad.ShootingPad]
+[2023.11.28-21.41.21:345][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/ShootingPad]
+[2023.11.28-21.41.21:354][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/ShootingPad_Auto2
+[2023.11.28-21.41.21:354][352]LogSavePackage: Moving '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/ShootingPad_Auto276E9F6B64F3E1B390BEB1BBA801127DC.tmp' to '../../../../../../Users/jslut/OneDrive/Documents/GitHub/QuickDrawP1/QuickestDraw01/Saved/Autosaves/Game/FirstPerson/Blueprints/ShootingPad_Auto2.uasset'
+[2023.11.28-21.41.21:355][352]LogFileHelpers: Auto-saving content packages took 0.062
